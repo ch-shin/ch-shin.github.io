@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <!--
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        -->
+        <h1 class="title">{{ site.title }}</h1>
+        <h2 class="subtitle">{{ site.subtitle }}</h2>
+
+        {% if site.face %}
+          <img src="{{site.face | relative_url}}" alt="Face" />
+        {% endif %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <i class="material-icons md-18">location_on</i> {{ site.location }}<br/>
+        <i class="material-icons md-18">email</i> {{ site.email }}<br/>
+        <a href="{{ site.homepage }}">
+          <i class="material-icons md-18">home</i> {{ site.homepage }}<br/>
+        </a>
+        <a href="{{ site.github }}">
+          <i class="fab fa-github"></i> Github<br/>
+        </a>
+        <a href="{{ site.cv }}">
+          <i class="material-icons md-18">insert_drive_file</i> CV<br/>
+        </a>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages<br/> Theme by <a href="https://github.com/orderedlist">orderedlist</a> and <a href="https://homes.cs.washington.edu/~eunsol/">eunsol</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% include analytics.html %}
+    {% endif %}
+  </body>
+</html>
