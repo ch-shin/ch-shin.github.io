@@ -34,7 +34,20 @@ I do research in deep learning applications to energy data, mainly focusing on N
 ### Experience
 
 <h4 class="experience">
-  <a href="enertalk">Encored Technologies</a>, Seoul, Korea
+  <i class="material-icons md-18">apartment</i>
+  <a href="enertalk.com">Encored Technologies</a>, Seoul, Korea
   <sup>2018.01 - Present</sup>
 </h4>
+- Data Scientist, Deep Backend Team
+- Projects: Deep Learning in NILM, Appliance Promotion based on Disaggregated Appliance Usage, Anomaly Detection in Solar Power Management System
+- Work as alternative military service
+ 
+<h4 class="experience">
+  <i class="material-icons md-18">apartment</i>
+  <a href="kida.re.kr">KIDA (Korea Institute for Defense Analyses)</a>, Seoul, Korea
+  <sup>2017.01 - 2017.12</sup>
+</h4>
 
+- Research, Defense Information Planning Division
+- Topics: Informatization Policy, Artificial Intelligence
+- Work as alternative military service
