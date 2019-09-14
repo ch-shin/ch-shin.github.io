@@ -31,6 +31,20 @@ I do research in deep learning applications to energy data, mainly focusing on N
 [Psychology]: http://psych.snu.ac.kr/
 [Computer Science and Engineering]: https://cse.snu.ac.kr/en
 
+### Publications
+- [Challenging Common Beliefs between Deep Network Performance and Representa-
+tion Characteristics](), _Submitted_ <br/>
+Daeyoung Choi, Kyungeun Lee, **Changho Shin**, and Wonjong Rhee <br/>
+- [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
+Korea](), _Nature Scientific Data_ <br/>
+**Changho Shin**, Eunjung Lee, Jeongyun Han, Jaeryun Yim, Hyoseop Lee, and Won-
+jong Rhee <br/>
+- [Data Requirements for Applying Machine Learning to Energy Disaggregation](https://www.mdpi.com/1996-1073/12/9/1696), _Energies_ <br/>
+**Changho Shin**, Seungeun Rho, Hyoseop Lee, and Wonjong Rhee <br/>
+- [Subtask Gated Networks for Non-Intrusive Load Monitoring](https://www.aaai.org/ojs/index.php/AAAI/article/view/3908), _AAAI 2019_ <br/>
+**Changho Shin**, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Won-
+jong Rhee <br/>
+
 ### Experience
 
 <h4 class="experience">
