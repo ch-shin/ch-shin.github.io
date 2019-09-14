@@ -4,8 +4,9 @@ face: /assets/img/chshin.jpeg
 description: Data Scientist in Encored Technologies
 location: Seoul, Korea
 email: chshin AT encoredtech.com
+cv: https://drive.google.com/file/d/1Zw2Sdp5eoMbkaUimNIXxLJ-bwBsTU4J-/view?usp=sharing
 homepage: https://ch-shin.github.io 
 github: https://github.com/ch-shin
-cv: https://drive.google.com/file/d/1Zw2Sdp5eoMbkaUimNIXxLJ-bwBsTU4J-/view?usp=sharing
+twitter: https://twitter.com/chshin1258
 #google_analytics:
 theme: jekyll-theme-minimal
