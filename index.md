@@ -47,7 +47,27 @@ I do research in deep learning applications to energy data, mainly focusing on N
   <a href="kida.re.kr">KIDA (Korea Institute for Defense Analyses)</a>, Seoul, Korea
   <sup>2017.01 - 2017.12</sup>
 </h4>
-
-- Research, Defense Information Planning Division
+- Researcher, Defense Information Planning Division
 - Topics: Informatization Policy, Artificial Intelligence
 - Work as alternative military service
+
+<h4 class="experience">
+  <i class="material-icons md-18">account_balance</i>
+  <a href="bi.snu.ac.kr">Biointelligence Laboratory, Seoul Nat'l University</a>, Seoul, Korea
+  <sup>Fall 2014 - Winter 2014</sup>
+</h4>
+- Undergraduate Research Intern
+- Project: Associative Memory Simulation using Word Similarity in word2vec
+- Advisor: [Byong-Tak Zhang]
+[Byong-Tak Zhang]: https://bi.snu.ac.kr/
+
+<h4 class="experience">
+  <i class="material-icons md-18">account_balance</i>
+  <a href="mipal.snu.ac.kr">MIPAL, Seoul Nat'l University</a>, Seoul, Korea
+  <sup>Summer 2014</sup>
+</h4>
+- Undergraduate Research Intern
+- Project: Implementation of stacked autoencoder for visual feature learning
+- Advisor: [Nojun Kwak]
+[Nojun Kwak]: http://mipal.snu.ac.kr/index.php/Nojun_Kwak
+
