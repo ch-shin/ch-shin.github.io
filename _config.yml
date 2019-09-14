@@ -1,13 +1,11 @@
 title: Changho Shin
 subtitle: (신창호, @ch-shin)
 face: /assets/img/chshin.jpeg
-#cv: 
 description: Data Scientist in Encored Technologies
 location: Seoul, Korea
 email: chshin AT encoredtech.com
-homepage: https://ch-shin.github.io
-#twitter: 
+homepage: https://ch-shin.github.io 
 github: https://github.com/ch-shin
-#linkedin:
+cv: https://drive.google.com/file/d/1JkPSgJNA-Tme1LCL2pzC_wrV3Gv-kiXc/view?usp=sharing
 google_analytics:
 theme: jekyll-theme-minimal
