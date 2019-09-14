@@ -7,5 +7,5 @@ email: chshin AT encoredtech.com
 homepage: https://ch-shin.github.io 
 github: https://github.com/ch-shin
 cv: https://drive.google.com/file/d/1Zw2Sdp5eoMbkaUimNIXxLJ-bwBsTU4J-/view?usp=sharing
-google_analytics:
+#google_analytics:
 theme: jekyll-theme-minimal
