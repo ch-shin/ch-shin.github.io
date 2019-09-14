@@ -4,7 +4,7 @@ layout: default
 
 Hello!
 I am a Data Scientist in Encored Technologies.
-I do research in deep learning applications to Energy Data, mainly focusing on NILM (Non-Intrusive Load Monitoring). However, I have a broad interest in deep learning, especially related with Human-Inspired Intelligence.
+I do research in deep learning applications to energy data, mainly focusing on NILM (Non-Intrusive Load Monitoring). Also, I have a broad interest in deep learning, especially related with Human-Inspired Intelligence.
 
 ### Education
 
@@ -30,3 +30,11 @@ I do research in deep learning applications to Energy Data, mainly focusing on N
 
 [Psychology]: http://psych.snu.ac.kr/
 [Computer Science and Engineering]: https://cse.snu.ac.kr/en
+
+### Experience
+
+<h4 class="experience">
+  <a href="enertalk">Encored Technologies</a>, Seoul, Korea
+  <sup>2018.01 - Present</sup>
+</h4>
+
