@@ -59,6 +59,7 @@ I do research in deep learning applications to energy data, mainly focusing on N
 - Undergraduate Research Intern
 - Project: Associative Memory Simulation using Word Similarity in word2vec
 - Advisor: [Byong-Tak Zhang]
+
 [Byong-Tak Zhang]: https://bi.snu.ac.kr/
 
 <h4 class="experience">
@@ -69,5 +70,6 @@ I do research in deep learning applications to energy data, mainly focusing on N
 - Undergraduate Research Intern
 - Project: Implementation of stacked autoencoder for visual feature learning
 - Advisor: [Nojun Kwak]
+
 [Nojun Kwak]: http://mipal.snu.ac.kr/index.php/Nojun_Kwak
 
