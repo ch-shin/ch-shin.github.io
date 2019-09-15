@@ -9,7 +9,7 @@ I do research in deep learning applications to energy data, mainly focusing on N
 ### Education
 
 <h4 class="education">
-  <i class="material-icons md-18">account_balance</i>
+  <i class="material-icons md-18">school</i>
   <a href="http://convergence.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, Korea
   <sup>2015.03 - 2017.02</sup>
 </h4>
@@ -64,26 +64,4 @@ jong Rhee <br/>
 - Researcher, Defense Information Planning Division
 - Topics: Informatization Policy, Artificial Intelligence
 - Work as alternative military service
-
-<h4 class="experience">
-  <i class="material-icons md-18">account_balance</i>
-  <a href="bi.snu.ac.kr">Biointelligence Laboratory, Seoul Nat'l University</a>, Seoul, Korea
-  <sup>Fall 2014 - Winter 2014</sup>
-</h4>
-- Undergraduate Research Intern
-- Project: Associative Memory Simulation using Word Similarity in word2vec
-- Advisor: [Byong-Tak Zhang]
-
-[Byong-Tak Zhang]: https://bi.snu.ac.kr/
-
-<h4 class="experience">
-  <i class="material-icons md-18">account_balance</i>
-  <a href="mipal.snu.ac.kr">MIPAL, Seoul Nat'l University</a>, Seoul, Korea
-  <sup>Summer 2014</sup>
-</h4>
-- Undergraduate Research Intern
-- Project: Implementation of stacked autoencoder for visual feature learning
-- Advisor: [Nojun Kwak]
-
-[Nojun Kwak]: http://mipal.snu.ac.kr/index.php/Nojun_Kwak
 
