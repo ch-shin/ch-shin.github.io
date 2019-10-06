@@ -17,7 +17,7 @@ I have done research in deep learning applications to energy data, mainly focusi
 - M.S. in [Department of Transdisciplinary Studies]
 - Advisor: [Prof. Wonjong Rhee](http://adsl.snu.ac.kr/?p=13209), IEEE Fellow
  
-[Digital Contents and Information Studies]: http://convergence.snu.ac.kr/main/%ea%b5%90%ec%9c%a1-%eb%94%94%ec%a7%80%ed%84%b8%ec%a0%95%eb%b3%b4%ec%9c%b5%ed%95%a9-%ec%a0%84%ea%b3%b5%ec%86%8c%ea%b0%9c-copy?lang=en
+[Department of Transdisciplinary Studies]: http://convergence.snu.ac.kr/main/%ea%b5%90%ec%9c%a1-%eb%94%94%ec%a7%80%ed%84%b8%ec%a0%95%eb%b3%b4%ec%9c%b5%ed%95%a9-%ec%a0%84%ea%b3%b5%ec%86%8c%ea%b0%9c-copy?lang=en
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
