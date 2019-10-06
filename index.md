@@ -4,7 +4,7 @@ layout: default
 
 Hello!
 I am a Data Scientist in Encored Technologies.
-I have done research in deep learning applications to energy data, mainly focusing on NILM (Non-Intrusive Load Monitoring) during my master's degree studies and working as a data scientist in Encored Technologies. I have a broad interest in deep learning, especially related with Human-Inspired Intelligence based on psycholgy and cognitive science.
+I have done research in deep learning applications to energy data, mainly focusing on NILM (Non-Intrusive Load Monitoring) during my master's degree studies and working as a data scientist in Encored Technologies. I have a broad interest in deep learning, especially related with Human-Inspired Intelligence based on psychology and cognitive science.
 
 ### Education
 
