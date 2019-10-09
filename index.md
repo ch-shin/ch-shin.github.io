@@ -36,7 +36,7 @@ I have done research in deep learning applications to energy data, mainly focusi
 tion Characteristics](), _Submitted_ <br/>
 Daeyoung Choi, Kyungeun Lee, **Changho Shin**, and Wonjong Rhee <br/>
 - [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
-Korea](), _Nature Scientific Data_ <br/>
+Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Nature Scientific Data_ <br/>
 **Changho Shin**, Eunjung Lee, Jeongyun Han, Jaeryun Yim, Hyoseop Lee, and Won-
 jong Rhee <br/>
 - [Data Requirements for Applying Machine Learning to Energy Disaggregation](https://www.mdpi.com/1996-1073/12/9/1696), _Energies_ <br/>
@@ -67,6 +67,4 @@ jong Rhee <br/>
 - Work as alternative military service
 - KIDA is a government-funded organization that performs research on all aspects of Korean defense policy. As my personal project in KIDA, I did research about the medical application of AI in the policy level. It provided me a chance to ponder on the values of AI research and what it means for a specific technology to change the world in a macro perspective.
 
-### About me
-I also love collecting quotes. In this year, I read books and collect quotes on Stoicism, mainly written by Marcus Aurelius and Seneca.
 
