@@ -61,4 +61,11 @@ jong Rhee <br/>
 </h4>
 - Researcher, Defense Information Planning Division
 - Topics: Informatization Policy, Artificial Intelligence
-- KIDA is a government-funded organization that performs research on all aspects of Korean defense policy. As my personal project in KIDA, I researched the medical application of AI at the policy level. It provided me a chance to ponder on the values of AI research and what it means for a specific technology to change the world from a macro perspective. 
+- KIDA is a government-funded organization that performs research on all aspects of Korean defense policy. As my personal project in KIDA, I researched the medical application of AI at the policy level. It provided me a chance to ponder on the values of AI research and what it means for a specific technology to change the world from a macro perspective.
+
+### About me
+I enjoy reading books and collecting quotes. The most recent quote I have been impressed by is
+<div align="center">
+  “The problems are solved, not by giving new information, but by arranging what we have known since long.”
+― Ludwig Wittgenstein, Philosophical Investigations
+</div> 
