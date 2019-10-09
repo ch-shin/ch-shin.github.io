@@ -65,7 +65,5 @@ jong Rhee <br/>
 
 ### About me
 I enjoy reading books and collecting quotes. The most recent quote I have been impressed by is
-<div align="center">
-  “The problems are solved, not by giving new information, but by arranging what we have known since long.”
-― Ludwig Wittgenstein, Philosophical Investigations
-</div> 
+*“The problems are solved, not by giving new information, but by arranging what we have known since long.”* - Ludwig Wittgenstein, Philosophical Investigations
+
