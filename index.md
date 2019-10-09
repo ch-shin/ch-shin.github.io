@@ -52,7 +52,7 @@ jong Rhee <br/>
 </h4>
 - Data Scientist, Deep Backend Team
 - Projects: Deep Learning in NILM, Appliance Promotion based on Disaggregated Appliance Usage, Anomaly Detection in Solar Power Management System
-- Working in Encored as a data scientist was able to gain much experience with software and data science. Before, I had thought that “great” algorithms alone are enough to solve many problems in real-world. However, I became deeply realized that data really matters, and there are a lot of troublesome steps to deploy ML products that work. With lessons from my experience in Encored, I want to pursue my doctoral course with the theme of how AI can overcome difficulties in real-world data problems in flexible and robust ways as humans.
+- Working as a data scientist at Encored, I have gained extensive experience with software and data science. Before, I had thought that “great” algorithms alone are enough to solve many problems in real-world. However, I became deeply realized that there are a lot of troublesome steps to deploy ML products that work, and data really matters. With lessons from my experience in Encored, I want to pursue my doctoral course with the theme of how AI can overcome difficulties in real-world data problems in flexible and robust ways as humans.
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
