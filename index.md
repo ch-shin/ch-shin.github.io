@@ -30,9 +30,6 @@ Hello! I am a Data Scientist in Encored Technologies. I have done research in de
 [Computer Science and Engineering]: https://cse.snu.ac.kr/en
 
 ### Publications
-- [Challenging Common Beliefs between Deep Network Performance and Representa-
-tion Characteristics](), _Submitted_ <br/>
-Daeyoung Choi, Kyungeun Lee, **Changho Shin**, and Wonjong Rhee <br/>
 - [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
 Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Nature Scientific Data_ <br/>
 **Changho Shin**, Eunjung Lee, Jeongyun Han, Jaeryun Yim, Hyoseop Lee, and Won-
@@ -42,6 +39,8 @@ jong Rhee <br/>
 - [Subtask Gated Networks for Non-Intrusive Load Monitoring](https://www.aaai.org/ojs/index.php/AAAI/article/view/3908), _AAAI 2019_ <br/>
 **Changho Shin**, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Won-
 jong Rhee <br/>
+- [DNN Representations as Codewords: Manipulating Statistical Properties via Penalty Regularization](https://openreview.net/forum?id=rkQu4Wb0Z), _Submitted_ <br/>
+Deayoung Choi, **Changho Shin**, Hyunghun Cho, Wonjong Rhee <br/>
 
 ### Experience
 
