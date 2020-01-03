@@ -31,7 +31,7 @@ Hello! I am a Data Scientist in Encored Technologies. I have done research in de
 
 ### Publications
 - [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
-Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Nature Scientific Data_ <br/>
+Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data_ <br/>
 **Changho Shin**, Eunjung Lee, Jeongyun Han, Jaeryun Yim, Hyoseop Lee, and Won-
 jong Rhee <br/>
 - [Data Requirements for Applying Machine Learning to Energy Disaggregation](https://www.mdpi.com/1996-1073/12/9/1696), _Energies_ <br/>
@@ -61,8 +61,3 @@ Deayoung Choi, **Changho Shin**, Hyunghun Cho, Wonjong Rhee <br/>
 - Researcher, Defense Information Planning Division
 - Topics: Informatization Policy, Artificial Intelligence
 - KIDA is a government-funded organization that performs research on all aspects of Korean defense policy. As my personal project in KIDA, I researched the medical application of AI at the policy level. It provided me a chance to ponder on the values of AI research and what it means for a specific technology to change the world from a macro perspective.
-
-### About me
-I enjoy reading books and collecting quotes. The most recent quote I have been impressed by is
-*“The problems are solved, not by giving new information, but by arranging what we have known since long.”* - Ludwig Wittgenstein, Philosophical Investigations
-
