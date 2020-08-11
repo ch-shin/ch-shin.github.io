@@ -60,9 +60,8 @@ Deayoung Choi, Kyeungeun Lee,  **Changho Shin**, Wonjong Rhee <br/>
   <sup>2018.01 - 2020.07</sup>
 </h4>
 
-- Data Scientist, Deep Backend Team
-- Projects: Deep Learning in NILM, Appliance Promotion based on Disaggregated Appliance Usage, Anomaly Detection in Solar Power Management System
-- Working as a data scientist at Encored, I have gained extensive experience with software and data science. Before, I had thought that “great” algorithms alone are enough to solve many problems in real-world. However, I became deeply realized that there are a lot of troublesome steps to deploy ML products that work, and data really matters. With lessons from my experience in Encored, I want to pursue my doctoral course with the theme of how AI can overcome difficulties in real-world data problems in flexible and robust ways as humans.
+- Data Scientist, Applied Research Team
+- Projects: Deep Learning in NILM, Appliance Promotion based on Disaggregated Appliance Usage, Anomaly Detection in Photovoltaic System, Solar Power Generation Prediction
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
@@ -71,4 +70,3 @@ Deayoung Choi, Kyeungeun Lee,  **Changho Shin**, Wonjong Rhee <br/>
 </h4>
 - Researcher, Defense Information Planning Division
 - Topics: Informatization Policy, Artificial Intelligence
-- KIDA is a government-funded organization that performs research on all aspects of Korean defense policy. As my personal project in KIDA, I researched the medical application of AI at the policy level. It provided me a chance to ponder on the values of AI research and what it means for a specific technology to change the world from a macro perspective.
