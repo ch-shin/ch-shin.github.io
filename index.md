@@ -77,4 +77,4 @@ Deayoung Choi, Kyeungeun Lee,  **Changho Shin**, Wonjong Rhee <br/>
   <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>
   <sup>2020.09 -</sup>
 </h4>
-- <a herf="https://www.msyamkumar.com/cs220/f20/schedule.html">Teaching assistant for CS 220 (Data Programming I)</a>
+- <a href="https://www.msyamkumar.com/cs220/f20/schedule.html">Teaching assistant for CS 220 (Data Programming I)</a>
