@@ -35,7 +35,7 @@ As a result, my current research interests lie in the field of deep learning, al
 
 - B.A. in [Psychology]
 - B.S. in [Computer Science and Engineering]
-
+- Graduated with honors (Cum Laude)
 [Psychology]: http://psych.snu.ac.kr/
 [Computer Science and Engineering]: https://cse.snu.ac.kr/en
 
@@ -70,3 +70,11 @@ Deayoung Choi, Kyeungeun Lee,  **Changho Shin**, Wonjong Rhee <br/>
 </h4>
 - Researcher, Defense Information Planning Division
 - Topics: Informatization Policy, Artificial Intelligence
+
+### Teaching Experience
+<h4 class="experience">
+  <i class="material-icons md-18">school</i>
+  <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>
+  <sup>2020.09 -</sup>
+</h4>
+- <a herf="https://www.msyamkumar.com/cs220/f20/schedule.html">Teaching assistant for CS 220 (Data Programming I)</a>
