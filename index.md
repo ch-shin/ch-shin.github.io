@@ -2,9 +2,7 @@
 layout: default
 ---
 
-I am a first year PhD student in Computer Science at University of Wisconsin-Madison. Previously, I have done research on deep learning applications to energy data, mainly focusing on NILM (Non-Intrusive Load Monitoring) during my master’s degree studies and working as a data scientist in Encored Technologies. Working as a ML practitioner, I felt that more principled approaches are required for efficient ML product development processes in real worlds.
-
-As a result, my current research interests lie in the field of deep learning, algorithms and computational learning theory. Specifically, I am interested in 1) connecting properties of deep neural networks and generalization bounds, 2) understanding transferable features and designing efficient transfer learning methods, 3) interpreting the lottery ticket hypothesis in theoretical framework. Ultimately, the long-term goal of my research is discovering effective design principles for deep neural networks.
+I am a first year PhD student in Computer Science at University of Wisconsin-Madison. My current research interests lie in the field of machine learning and algorithms.
 
 ### Education
 
