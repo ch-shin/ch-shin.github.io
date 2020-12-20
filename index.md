@@ -31,11 +31,9 @@ I am a first year PhD student in Computer Science at University of Wisconsin-Mad
   <sup>2011.03 - 2015.02</sup>
 </h4>
 
-- B.A. in [Psychology]
-- B.S. in [Computer Science and Engineering]
+- B.A. in [Psychology](http://psych.snu.ac.kr/)
+- B.S. in [Computer Science and Engineering](http://cse.snu.ac.kr/)
 - Graduated with honors (Cum Laude)
-[Psychology]: http://psych.snu.ac.kr/
-[Computer Science and Engineering]: https://cse.snu.ac.kr/en
 
 ### Publications
 - [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
