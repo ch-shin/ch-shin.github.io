@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a first year PhD student in Computer Science at University of Wisconsin-Madison. My current research interests lie in the field of machine learning and algorithms.
+I am a second year PhD student in Computer Science at University of Wisconsin-Madison. My current research interests lie in the field of machine learning and data science.
 
 ### Education
 
@@ -13,6 +13,7 @@ I am a first year PhD student in Computer Science at University of Wisconsin-Mad
 </h4>
 
 * Ph.D. Student in [School of Computer, Data & Information Sciences](https://www.cs.wisc.edu/)  
+* Advisor: [Prof. Frederic Sala][https://pages.cs.wisc.edu/~fredsala/]
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
@@ -36,6 +37,10 @@ I am a first year PhD student in Computer Science at University of Wisconsin-Mad
 - Graduated with honors (Cum Laude)
 
 ### Publications
+
+* [Universalizing Weak Supervision][https://arxiv.org/pdf/2112.03865.pdf], _Under review_ <br/>
+  **Changho Shin**, Winfred Li, Harit Vishwakarma, Nicholas Roberts, Frederic Sala <br/>
+
 - [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
 Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data_ <br/>
 **Changho Shin**, Eunjung Lee, Jeongyun Han, Jaeryun Yim, Hyoseop Lee, and Won-
@@ -73,4 +78,6 @@ Deayoung Choi, Kyeungeun Lee,  **Changho Shin**, Wonjong Rhee <br/>
   <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>
   <sup>2020.09 -</sup>
 </h4>
+- <a href="https://pages.cs.wisc.edu/~fredsala/cs760/fall2021/schedule.html">Teaching assistant for CS 760 (Machine Learning)</a>
+- <a href="https://tyler.caraza-harter.com/cs320/s21/schedule.html">Teaching assistant for CS 320 (Data Programming II)</a>
 - <a href="https://www.msyamkumar.com/cs220/f20/schedule.html">Teaching assistant for CS 220 (Data Programming I)</a>
