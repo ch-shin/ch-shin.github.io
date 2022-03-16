@@ -38,7 +38,7 @@ I am a second year PhD student in Computer Science at University of Wisconsin-Ma
 
 ### Publications
 
-* [Universalizing Weak Supervision](https://arxiv.org/pdf/2112.03865.pdf), _Under review_ <br/>
+* [Universalizing Weak Supervision](https://arxiv.org/pdf/2112.03865.pdf), _ICLR 2022_ <br/>
   **Changho Shin**, Winfred Li, Harit Vishwakarma, Nicholas Roberts, Frederic Sala <br/>
 
 - [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
@@ -78,6 +78,7 @@ Deayoung Choi, Kyeungeun Lee,  **Changho Shin**, Wonjong Rhee <br/>
   <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>
   <sup>2020.09 -</sup>
 </h4>
+- <a href="https://danielpimentel.github.io/teaching.html">Teaching assistant for CS 760 (Machine Learning)</a>
 - <a href="https://pages.cs.wisc.edu/~fredsala/cs760/fall2021/schedule.html">Teaching assistant for CS 760 (Machine Learning)</a>
 - <a href="https://tyler.caraza-harter.com/cs320/s21/schedule.html">Teaching assistant for CS 320 (Data Programming II)</a>
 - <a href="https://www.msyamkumar.com/cs220/f20/schedule.html">Teaching assistant for CS 220 (Data Programming I)</a>
