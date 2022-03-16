@@ -78,8 +78,8 @@ Deayoung Choi, Kyeungeun Lee,  **Changho Shin**, Wonjong Rhee <br/>
   <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>
   <sup>2020.09 -</sup>
 </h4>
-- <a href="https://danielpimentel.github.io/teaching.html">Teaching assistant for CS 760 (Machine Learning)</a>
-- <a href="https://pages.cs.wisc.edu/~fredsala/cs760/fall2021/schedule.html">Teaching assistant for CS 760 (Machine Learning)</a>
-- <a href="https://tyler.caraza-harter.com/cs320/s21/schedule.html">Teaching assistant for CS 320 (Data Programming II)</a>
-- <a href="https://www.msyamkumar.com/cs220/f20/schedule.html">Teaching assistant for CS 220 (Data Programming I)</a>
+- <a href="https://danielpimentel.github.io/teaching.html">Teaching assistant for CS 760 (Machine Learning), Spring 2022</a>
+- <a href="https://pages.cs.wisc.edu/~fredsala/cs760/fall2021/schedule.html">Teaching assistant for CS 760 (Machine Learning), Fall 2021</a>
+- <a href="https://tyler.caraza-harter.com/cs320/s21/schedule.html">Teaching assistant for CS 320 (Data Programming II), Spring 2021</a>
+- <a href="https://www.msyamkumar.com/cs220/f20/schedule.html">Teaching assistant for CS 220 (Data Programming I), Fall 2020</a>
 
