@@ -40,7 +40,6 @@ I am a second year PhD student in Computer Science at University of Wisconsin-Ma
 
 * [Universalizing Weak Supervision](https://arxiv.org/pdf/2112.03865.pdf), _ICLR 2022_ <br/>
   **Changho Shin**, Winfred Li, Harit Vishwakarma, Nicholas Roberts, Frederic Sala <br/>
-
 - [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
 Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data_ <br/>
 **Changho Shin**, Eunjung Lee, Jeongyun Han, Jaeryun Yim, Hyoseop Lee, and Won-
@@ -50,10 +49,17 @@ jong Rhee <br/>
 - [Subtask Gated Networks for Non-Intrusive Load Monitoring](https://www.aaai.org/ojs/index.php/AAAI/article/view/3908), _AAAI 2019_ <br/>
 **Changho Shin**, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Won-
 jong Rhee <br/>
-- [On the Statistical and Information-theoretic Characteristics of Deep Network Representations](https://arxiv.org/abs/1811.03666), _Submitted_ <br/>
-Deayoung Choi, Kyeungeun Lee,  **Changho Shin**, Wonjong Rhee <br/>
 
 ### Work Experience
+
+<h4 class="experience">
+  <i class="material-icons md-18">apartment</i>
+  <a href="https://about.twitter.com/en">Twitter</a>, San Francisco, USA
+  <sup>2022.06 - 2020.08</sup>
+</h4>
+
+- Machine Learning Engineer Intern, Health Team
+
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
