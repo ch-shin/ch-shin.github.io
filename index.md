@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a third year PhD student in Computer Science at University of Wisconsin-Madison. My current research interests lie in the field of machine learning and data science. Specifically, I am working on weak supervision and data-centric AI under the supervision of [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Occasionally I contritube to ML for sustainability, including NILM (Non-intrusive Load Monitoring) and solar power forecasting.
+I am a third year PhD student in Computer Science at University of Wisconsin-Madison. My current research interests lie in the field of machine learning and data science. Specifically, I am working on weak supervision and data-centric AI under the supervision of [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Occasionally I contritube to ML for sustainability, including NILM (Non-intrusive Load Monitoring) and solar power forecasting. I am also interested in causal inference, as a tool to study sustainability issues.
 
 ### Education
 
