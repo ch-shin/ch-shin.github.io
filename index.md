@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a second year PhD student in Computer Science at University of Wisconsin-Madison. My current research interests lie in the field of machine learning and data science. Specifically, I am working on weak supervision and data-centric AI under the supervision of [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Occasionally I contritube to ML for sustainability, mainly on NILM (Non-intrusive Load Monitoring) and solar power forecasting.
+I am a third year PhD student in Computer Science at University of Wisconsin-Madison. My current research interests lie in the field of machine learning and data science. Specifically, I am working on weak supervision and data-centric AI under the supervision of [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Occasionally I contritube to ML for sustainability, including NILM (Non-intrusive Load Monitoring) and solar power forecasting.
 
 ### Education
 
@@ -90,4 +90,4 @@ jong Rhee <br/>
 - <a href="https://www.msyamkumar.com/cs220/f20/schedule.html">Teaching assistant for CS 220 (Data Programming I), Fall 2020</a>
 
 ### Miscellaneous
-My Erdős number is 4 (Wonjong Rhee -> Stephen Boyd -> Persi Diaconis -> Paul Erdös)
+My Erdős number is 4 (Wonjong Rhee -> Stephen Boyd -> Persi Diaconis -> Paul Erdös).
