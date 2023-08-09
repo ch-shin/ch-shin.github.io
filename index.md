@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a third year PhD student in Computer Science at University of Wisconsin-Madison. My current research interests lie in the field of machine learning and data science. Specifically, I am working on weak supervision and data-centric AI under the supervision of [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Occasionally I contritube to ML for sustainability, including NILM (Non-intrusive Load Monitoring) and solar power forecasting.
+I am a third year PhD student in Computer Science at University of Wisconsin-Madison. My current research interests lie in the field of machine learning and data science. Specifically, I am working on weak supervision and data-centric AI under the supervision of [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). 
 
 ### Education
 
@@ -38,6 +38,14 @@ I am a third year PhD student in Computer Science at University of Wisconsin-Mad
 
 ### Publications
 
+* [Zero-Shot Robustification of Zero-Shot Models With Auxiliary Foundation Models](https://dyahadila.github.io/assets/pdf/roboshot.pdf), _preprint_ <br/>
+
+  Dyah Adila, **Changho Shin**, Linrong Cai, Frederic Sala
+
+* [Mitigating Source Bias for Fairer Weak Supervision](https://arxiv.org/abs/2303.17713), _preprint_ <br/>
+  **Changho Shin**, Sonia Cromp, Dyah Adila, Frederic Sala
+* [Can we get smarter than majority vote? Efficient use of individual rater’s labels for content moderation](https://neurips2022-enlsp.github.io/papers/paper_21.pdf), _NEURIPS 2022, ENLSP Workshop_ <br/>
+  **Changho Shin**, Alice Schoenauer Sebag
 * [Universalizing Weak Supervision](https://arxiv.org/pdf/2112.03865.pdf), _ICLR 2022_ <br/>
   **Changho Shin**, Winfred Li, Harit Vishwakarma, Nicholas Roberts, Frederic Sala <br/>
 - [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
@@ -84,10 +92,8 @@ jong Rhee <br/>
   <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>
   <sup>2020.09 -</sup>
 </h4>
-- <a href="https://danielpimentel.github.io/teaching.html">Teaching assistant for CS 760 (Machine Learning), Spring 2022</a>
-- <a href="https://pages.cs.wisc.edu/~fredsala/cs760/fall2021/schedule.html">Teaching assistant for CS 760 (Machine Learning), Fall 2021</a>
-- <a href="https://tyler.caraza-harter.com/cs320/s21/schedule.html">Teaching assistant for CS 320 (Data Programming II), Spring 2021</a>
-- <a href="https://www.msyamkumar.com/cs220/f20/schedule.html">Teaching assistant for CS 220 (Data Programming I), Fall 2020</a>
-
-### Miscellaneous
-My Erdős number is 4 (Wonjong Rhee -> Stephen Boyd -> Persi Diaconis -> Paul Erdös).
+- Teaching assistant for CS 839 (Foundation Models and the Future of Machine Learning), Fall 2023
+- Teaching assistant for CS 300 (Programming II), Fall 2022, Spring 2023
+- Teaching assistant for CS 760 (Machine Learning), Fall 2021, Spring 2022
+- Teaching assistant for CS 320 (Data Programming II), Spring 2021
+- Teaching assistant for CS 220 (Data Programming I), Fall 2020
