@@ -38,8 +38,7 @@ I am a third year PhD student in Computer Science at University of Wisconsin-Mad
 
 ### Publications
 
-* [Zero-Shot Robustification of Zero-Shot Models With Auxiliary Foundation Models](https://dyahadila.github.io/assets/pdf/roboshot.pdf), _preprint_
-
+* [Zero-Shot Robustification of Zero-Shot Models With Auxiliary Foundation Models](https://dyahadila.github.io/assets/pdf/roboshot.pdf), _preprint_ <br/>
   Dyah Adila, **Changho Shin**, Linrong Cai, Frederic Sala
 
 * [Mitigating Source Bias for Fairer Weak Supervision](https://arxiv.org/abs/2303.17713), _preprint_ <br/>
