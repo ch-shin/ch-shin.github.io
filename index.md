@@ -49,13 +49,16 @@ I am a third year PhD student in Computer Science at University of Wisconsin-Mad
   
 * [Universalizing Weak Supervision](https://arxiv.org/pdf/2112.03865.pdf), _ICLR 2022_ <br/>
   **Changho Shin**, Winfred Li, Harit Vishwakarma, Nicholas Roberts, Frederic Sala <br/>
-- [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
+
+* [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
 Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data_ <br/>
 **Changho Shin**, Eunjung Lee, Jeongyun Han, Jaeryun Yim, Hyoseop Lee, and Won-
 jong Rhee <br/>
-- [Data Requirements for Applying Machine Learning to Energy Disaggregation](https://www.mdpi.com/1996-1073/12/9/1696), _Energies_ <br/>
+
+* [Data Requirements for Applying Machine Learning to Energy Disaggregation](https://www.mdpi.com/1996-1073/12/9/1696), _Energies_ <br/>
 **Changho Shin**, Seungeun Rho, Hyoseop Lee, and Wonjong Rhee <br/>
-- [Subtask Gated Networks for Non-Intrusive Load Monitoring](https://www.aaai.org/ojs/index.php/AAAI/article/view/3908), _AAAI 2019_ <br/>
+
+* [Subtask Gated Networks for Non-Intrusive Load Monitoring](https://www.aaai.org/ojs/index.php/AAAI/article/view/3908), _AAAI 2019_ <br/>
 **Changho Shin**, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Won-
 jong Rhee <br/>
 
