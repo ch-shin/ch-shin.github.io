@@ -38,14 +38,16 @@ I am a third year PhD student in Computer Science at University of Wisconsin-Mad
 
 ### Publications
 
-* [Zero-Shot Robustification of Zero-Shot Models With Auxiliary Foundation Models](https://dyahadila.github.io/assets/pdf/roboshot.pdf), _preprint_ <br/>
+* [Zero-Shot Robustification of Zero-Shot Models With Auxiliary Foundation Models](https://dyahadila.github.io/assets/pdf/roboshot.pdf), _preprint_
 
   Dyah Adila, **Changho Shin**, Linrong Cai, Frederic Sala
 
 * [Mitigating Source Bias for Fairer Weak Supervision](https://arxiv.org/abs/2303.17713), _preprint_ <br/>
   **Changho Shin**, Sonia Cromp, Dyah Adila, Frederic Sala
+  
 * [Can we get smarter than majority vote? Efficient use of individual rater’s labels for content moderation](https://neurips2022-enlsp.github.io/papers/paper_21.pdf), _NEURIPS 2022, ENLSP Workshop_ <br/>
   **Changho Shin**, Alice Schoenauer Sebag
+  
 * [Universalizing Weak Supervision](https://arxiv.org/pdf/2112.03865.pdf), _ICLR 2022_ <br/>
   **Changho Shin**, Winfred Li, Harit Vishwakarma, Nicholas Roberts, Frederic Sala <br/>
 - [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
