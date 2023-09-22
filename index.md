@@ -78,3 +78,11 @@ jong Rhee <br/>
 - Teaching assistant for CS 760 (Machine Learning), Fall 2021, Spring 2022
 - Teaching assistant for CS 320 (Data Programming II), Spring 2021
 - Teaching assistant for CS 220 (Data Programming I), Fall 2020
+
+
+
+### Fun facts
+
+* Studying [Ricci curvature](https://www.instagram.com/ricci.cat23/)
+* As an undergrad psychology graduate, I can hack MBTI results.
+* When I was young, I learned [Korean Calligraphy](https://www.antiquealive.com/Blogs/Korean_Calligraphy.html) and won several awards. As a result, I possess terrible handwriting.
