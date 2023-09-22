@@ -2,62 +2,39 @@
 layout: default
 ---
 
-I am a third year PhD student in Computer Science at University of Wisconsin-Madison. My current research interests lie in the field of machine learning and data science. Specifically, I am working on weak supervision and data-centric AI under the supervision of [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). 
+I am a fourth-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and entrepreneurship from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
 
-### Education
+My primary research interests lie in the field of machine learning and data science. I am working on weak supervision and data-centric AI. These days, I am mainly interested in inference time intervention using data geometry, statistics, and optimal transport.
 
-<h4 class="education">
-  <i class="material-icons md-18">school</i>
-  <a href="http://wisc.edu/">University of Wisconsin-Madison</a>, Wisconsin, US
-  <sup>2020.09 - </sup>
-</h4>
 
-* Ph.D. Student in [School of Computer, Data & Information Sciences](https://www.cs.wisc.edu/)  
-* Advisor: [Prof. Frederic Sala](https://pages.cs.wisc.edu/~fredsala/)
 
-<h4 class="education">
-  <i class="material-icons md-18">school</i>
-  <a href="http://convergence.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, Korea
-  <sup>2015.03 - 2017.02</sup>
-</h4>
+### News
 
-- M.S. in [Department of Transdisciplinary Studies]
-- Advisor: [Prof. Wonjong Rhee](http://adsl.snu.ac.kr/?p=13209), _IEEE Fellow_
+* (Sep. 2023) Our paper on [fair weak supervision](https://drl.snu.ac.kr/people/professor) accepted at NeurIPS 2023!
+* (Sep. 2023) New preprint on [utilizing knowledge from language model for zero-shot classification](https://arxiv.org/abs/2303.17713)!
+* (Sep. 2023) Our team won the [datacomp competition filtering track (small)](https://www.datacomp.ai/leaderboard.html)!
+* (Oct. 2022) My internship project on [efficient use of crowd sourced labels](https://neurips2022-enlsp.github.io/papers/paper_21.pdf) accepted at NeurIPS 2022 ENLSP-II workshop!
+* (Jun. 2022) Started my summer internship at Twitter!
+* (Jan. 2022) Our paper on [applying weak supervision to any metric spaces](https://arxiv.org/pdf/2112.03865.pdf) accepted at ICLR 2022!
 
-[Department of Transdisciplinary Studies]: http://convergence.snu.ac.kr/main/%ea%b5%90%ec%9c%a1-%eb%94%94%ec%a7%80%ed%84%b8%ec%a0%95%eb%b3%b4%ec%9c%b5%ed%95%a9-%ec%a0%84%ea%b3%b5%ec%86%8c%ea%b0%9c-copy?lang=en
 
-<h4 class="education">
-  <i class="material-icons md-18">school</i>
-  <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, Korea
-  <sup>2011.03 - 2015.02</sup>
-</h4>
-
-- B.A. in [Psychology](http://psych.snu.ac.kr/)
-- B.S. in [Computer Science and Engineering](http://cse.snu.ac.kr/)
-- Graduated with honors (Cum Laude)
 
 ### Publications
 
-* [Zero-Shot Robustification of Zero-Shot Models With Auxiliary Foundation Models](https://dyahadila.github.io/assets/pdf/roboshot.pdf), _preprint_ <br/>
-  Dyah Adila, **Changho Shin**, Linrong Cai, Frederic Sala
-
-* [Mitigating Source Bias for Fairer Weak Supervision](https://arxiv.org/abs/2303.17713), _preprint_ <br/>
+* [Zero-Shot Robustification of Zero-Shot Models With Auxiliary Foundation Models](https://arxiv.org/abs/2303.17713), _preprint_ <br/>
+  Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
+* [Mitigating Source Bias for Fairer Weak Supervision](https://arxiv.org/abs/2303.17713), _NeurIPS 2023_ <br/>
   **Changho Shin**, Sonia Cromp, Dyah Adila, Frederic Sala
-  
-* [Can we get smarter than majority vote? Efficient use of individual rater’s labels for content moderation](https://neurips2022-enlsp.github.io/papers/paper_21.pdf), _NEURIPS 2022, ENLSP Workshop_ <br/>
+* [Can we get smarter than majority vote? Efficient use of individual rater’s labels for content moderation](https://neurips2022-enlsp.github.io/papers/paper_21.pdf), _NeurIPS 2022, ENLSP Workshop_ <br/>
   **Changho Shin**, Alice Schoenauer Sebag
-  
 * [Universalizing Weak Supervision](https://arxiv.org/pdf/2112.03865.pdf), _ICLR 2022_ <br/>
   **Changho Shin**, Winfred Li, Harit Vishwakarma, Nicholas Roberts, Frederic Sala <br/>
-
 * [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
 Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data_ <br/>
 **Changho Shin**, Eunjung Lee, Jeongyun Han, Jaeryun Yim, Hyoseop Lee, and Won-
 jong Rhee <br/>
-
 * [Data Requirements for Applying Machine Learning to Energy Disaggregation](https://www.mdpi.com/1996-1073/12/9/1696), _Energies_ <br/>
 **Changho Shin**, Seungeun Rho, Hyoseop Lee, and Wonjong Rhee <br/>
-
 * [Subtask Gated Networks for Non-Intrusive Load Monitoring](https://www.aaai.org/ojs/index.php/AAAI/article/view/3908), _AAAI 2019_ <br/>
 **Changho Shin**, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Won-
 jong Rhee <br/>
