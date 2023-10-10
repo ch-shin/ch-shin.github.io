@@ -12,7 +12,7 @@ My primary research interests lie in the field of machine learning and data scie
 
 * (Sep. 2023) Our paper on [fair weak supervision](https://drl.snu.ac.kr/people/professor) accepted at NeurIPS 2023!
 * (Sep. 2023) New preprint on [utilizing knowledge from language model for zero-shot classification](https://arxiv.org/abs/2309.04344)!
-* (Sep. 2023) Our team won [datacomp competition filtering track (small)](https://www.datacomp.ai/leaderboard.html)!
+* (Sep. 2023) Our team won [datacomp competition filtering track (small)](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf)!
 * (Oct. 2022) My internship project on [efficient use of crowd sourced labels](https://neurips2022-enlsp.github.io/papers/paper_21.pdf) accepted at NeurIPS 2022 ENLSP-II workshop!
 * (Jun. 2022) Started my summer internship at Twitter!
 * (Jan. 2022) Our paper on [applying weak supervision to any metric spaces](https://arxiv.org/pdf/2112.03865.pdf) accepted at ICLR 2022!
@@ -23,6 +23,8 @@ My primary research interests lie in the field of machine learning and data scie
 
 * [Zero-Shot Robustification of Zero-Shot Models With Auxiliary Foundation Models](https://arxiv.org/abs/2309.04344), _preprint_ <br/>
   Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
+* [Multimodal Data Curation via Object Detection and Filter Ensembles](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf), _ICCV 2023 DataComp Workshop_ <br/>
+  **Changho Shin\***, Tzu-heng Huang*, Sui Jiet Tay, Dyah Adila, Frederic Sala
 * [Mitigating Source Bias for Fairer Weak Supervision](https://arxiv.org/abs/2303.17713), _NeurIPS 2023_ <br/>
   **Changho Shin**, Sonia Cromp, Dyah Adila, Frederic Sala
 * [Can we get smarter than majority vote? Efficient use of individual rater’s labels for content moderation](https://neurips2022-enlsp.github.io/papers/paper_21.pdf), _NeurIPS 2022, ENLSP Workshop_ <br/>
