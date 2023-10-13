@@ -46,7 +46,7 @@ jong Rhee <br/>
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
   <a href="https://about.twitter.com/en">Twitter</a>, San Francisco, USA
-  <sup>2022.06 - 2020.08</sup>
+  <sup>2022.06 - 2022.08</sup>
 </h4>
 
 - Machine Learning Engineer Intern, Health Team
