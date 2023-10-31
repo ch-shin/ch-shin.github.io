@@ -24,7 +24,6 @@ My primary research interests lie in the field of machine learning and data scie
 
 * Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples, _NeurIPS 2023 TRL Workshop_ <br/>
   Joon Suk Huh\*, **Changho Shin\***, Elina Choi
-
 * [Zero-Shot Robustification of Zero-Shot Models With Auxiliary Foundation Models](https://arxiv.org/abs/2309.04344), _NeurIPS 2023 R0-FoMo Workshop_ <br/>
   Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 * [Multimodal Data Curation via Object Detection and Filter Ensembles](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf), _ICCV 2023 DataComp Workshop_ <br/>
