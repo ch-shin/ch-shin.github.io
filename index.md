@@ -11,7 +11,7 @@ My primary research interests lie in the field of machine learning and data-cent
 ### News
 
 * (Dec. 2023) Our [paper on robustifying foundation models](https://neurips.cc/virtual/2023/76545) was a **best paper award honorable mention** at the NeurIPS [R0-FoMo workshop](https://sites.google.com/view/r0-fomo)!
-* (Oct. 2023) A course team project on data wrangling with LLM using retrieval-based in-context examples is accepted at NeurIPS 2023 TRL workshop!
+* (Oct. 2023) A course team project on [data wrangling with LLM using retrieval-based in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ) is accepted at NeurIPS 2023 TRL workshop!
 * (Oct. 2023) New preprint on [utilizing knowledge from language model for zero-shot classification](https://arxiv.org/abs/2309.04344)! It's accepted at NeurIPS 2023 R0-FoMo workshop!
 * (Sep. 2023) Our paper on [fair weak supervision](https://drl.snu.ac.kr/people/professor) accepted at NeurIPS 2023!
 * (Sep. 2023) Our team won [DataComp competition filtering track (small)](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf)!
