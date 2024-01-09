@@ -4,16 +4,17 @@ layout: default
 
 I am a fourth-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and entrepreneurship from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
 
-My primary research interests lie in the field of machine learning and data science. I am working on weak supervision and data-centric AI. These days, I am mainly interested in inference time intervention using data geometry, statistics, and optimal transport.
+My primary research interests lie in the field of machine learning and data-centric AI. These days, I am working on the inference time adaptation of foundation models (LLM, VLM, etc.).
 
 
 
 ### News
 
+* (Dec. 2023) Our [paper on robustifying foundation models](https://neurips.cc/virtual/2023/76545) was a **best paper award honorable mention** at the NeurIPS [R0-FoMo workshop](https://sites.google.com/view/r0-fomo)!
 * (Oct. 2023) A course team project on data wrangling with LLM using retrieval-based in-context examples is accepted at NeurIPS 2023 TRL workshop!
 * (Oct. 2023) New preprint on [utilizing knowledge from language model for zero-shot classification](https://arxiv.org/abs/2309.04344)! It's accepted at NeurIPS 2023 R0-FoMo workshop!
 * (Sep. 2023) Our paper on [fair weak supervision](https://drl.snu.ac.kr/people/professor) accepted at NeurIPS 2023!
-* (Sep. 2023) Our team won [datacomp competition filtering track (small)](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf)!
+* (Sep. 2023) Our team won [DataComp competition filtering track (small)](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf)!
 * (Oct. 2022) My internship project on [efficient use of crowd sourced labels](https://neurips2022-enlsp.github.io/papers/paper_21.pdf) accepted at NeurIPS 2022 ENLSP-II workshop!
 * (Jun. 2022) Started my summer internship at Twitter!
 * (Jan. 2022) Our paper on [applying weak supervision to any metric spaces](https://arxiv.org/pdf/2112.03865.pdf) accepted at ICLR 2022!
@@ -22,8 +23,7 @@ My primary research interests lie in the field of machine learning and data scie
 
 ### Publications
 
-* Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples, _NeurIPS 2023 TRL Workshop_ <br/>
-  Joon Suk Huh\*, **Changho Shin\***, Elina Choi
+* [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ), _NeurIPS 2023 TRL Workshop_ <br/> Joon Suk Huh\*, **Changho Shin\***, Elina Choi
 * [Zero-Shot Robustification of Zero-Shot Models With Auxiliary Foundation Models](https://arxiv.org/abs/2309.04344), _NeurIPS 2023 R0-FoMo Workshop_ <br/>
   Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 * [Multimodal Data Curation via Object Detection and Filter Ensembles](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf), _ICCV 2023 DataComp Workshop_ <br/>
@@ -86,8 +86,9 @@ jong Rhee <br/>
 
 
 
-### Fun facts
+### Honors
 
-* Studying [Ricci curvature](https://www.instagram.com/ricci.cat23/)
-* As an undergrad psychology graduate, I can hack MBTI results.
-* When I was young, I learned [Korean Calligraphy](https://www.antiquealive.com/Blogs/Korean_Calligraphy.html) and won several awards. As a result, I possess terrible handwriting.
+* [Best Paper Award Honorable Mention](https://twitter.com/setlur_amrith/status/1739009154986160541), NeurIPS R0-FoMo Workshop, 2023
+* Rank #1 in [DataComp competition filtering track (small)](https://www.datacomp.ai/leaderboard.html), ICCV TNGCV Workshop, 2023
+* CS Departmental Scholarship, University of Wisconsin-Madison, 2020
+* Merit-based Scholarship, SNU, 2015
