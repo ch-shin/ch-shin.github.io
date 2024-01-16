@@ -23,7 +23,7 @@ My primary research interests lie in the field of machine learning and data-cent
 
 ### Publications
 
-* [Zero-Shot Robustification of Zero-Shot Models](https://arxiv.org/abs/2309.04344), _ICLR 2024_ <br/>Also presented in _NeurIPS 2023 R0-FoMo Workshop_ (**Best Paper Award Honorable Mention**)
+* [Zero-Shot Robustification of Zero-Shot Models](https://arxiv.org/abs/2309.04344), _ICLR 2024_ <br/>Also presented in _NeurIPS 2023 R0-FoMo Workshop_ (**Best Paper Award Honorable Mention**) <br/>
   Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 * [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ), _NeurIPS 2023 TRL Workshop_ <br/> Joon Suk Huh\*, **Changho Shin\***, Elina Choi
