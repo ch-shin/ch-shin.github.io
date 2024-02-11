@@ -4,11 +4,24 @@ layout: default
 
 I am a fourth-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and entrepreneurship from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
 
-My primary research interests lie in the field of machine learning and data-centric AI. These days, I am working on the inference time adaptation of foundation models (LLM, VLM, etc.).
+I am passionate about **foundation models**, such as **LLMs** and **MLLMs**. I investigate **data-centric** approaches, particularly **weak supervision**, aiming to generate/curate training data for these models efficiently. Concurrently, I explore **training-free adaptation** strategies, tailoring the behavior of these models to suit a variety of downstream tasks and data distributions effortlessly. In pursuit of these objectives, I have initiated and completed several projects:
 
+**Data-centric AI**
 
+* Extending weak supervision to any label spaces [ICLR'22]
+* Improving fairness of weak supervision [NeurIPS'23]
+* Enhancing multimodal data curation via ensemble of curating models [ICCVW'23]
+
+**Training-free adaptation**
+
+* Robustifying zero-shot models by leveraging insights from language models [ICLR'24]
+* Correcting label distribution mismatch of zero-shot models with optimal transport [Under review]
+* Enhancing data wrangling LLMs with in-context learning [NeurIPSW'23]
 
 ### News
+
+* (Feb. 2024) Our team (with [Dyah Adila](https://dyahadila.github.io/)) is shortlisted as one of the finalists in Qualcomm Innovation Fellowship 2024! 
+
 * (Jan. 2024) Our [paper on robustifying foundation models](https://openreview.net/forum?id=fCeUoDr9Tq) is accepted at ICLR 2024!
 * (Dec. 2023) Our [paper on robustifying foundation models](https://neurips.cc/virtual/2023/76545) was a **best paper award honorable mention** at the NeurIPS [R0-FoMo workshop](https://sites.google.com/view/r0-fomo)!
 * (Oct. 2023) A course team project on [data wrangling with LLM using retrieval-based in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ) is accepted at NeurIPS 2023 TRL workshop!
@@ -23,10 +36,13 @@ My primary research interests lie in the field of machine learning and data-cent
 
 ### Publications
 
+* OTTER: Improving Zero-Shot Classification via Optimal Transport, Under review<br/>
+
+  **Changho Shin**, Jitian Zhao, Sonia Cromp, Harit Vishwakarma, Frederic Sala
+
 * [Zero-Shot Robustification of Zero-Shot Models](https://arxiv.org/abs/2309.04344), _ICLR 2024_ <br/>Also presented in _NeurIPS 2023 R0-FoMo Workshop_ (**Best Paper Award Honorable Mention**) <br/>
   Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
-
-* [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ), _NeurIPS 2023 TRL Workshop_ <br/> Joon Suk Huh\*, **Changho Shin\***, Elina Choi
+* [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ), _NeurIPS 2023 TRL Workshop_ <br/> **Changho Shin\***, Joon Suk Huh\*, Elina Choi
 * [Multimodal Data Curation via Object Detection and Filter Ensembles](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf), _ICCV 2023 DataComp Workshop_ <br/>
   **Changho Shin\***, Tzu-heng Huang*, Sui Jiet Tay, Dyah Adila, Frederic Sala
 * [Mitigating Source Bias for Fairer Weak Supervision](https://arxiv.org/abs/2303.17713), _NeurIPS 2023_ <br/>
@@ -44,6 +60,16 @@ jong Rhee <br/>
 * [Subtask Gated Networks for Non-Intrusive Load Monitoring](https://www.aaai.org/ojs/index.php/AAAI/article/view/3908), _AAAI 2019_ <br/>
 **Changho Shin**, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Won-
 jong Rhee <br/>
+
+### AWARDS
+
+* Qualcomm Innovation Fellowship Finalist, 2024
+
+* [Best Paper Award Honorable Mention](https://twitter.com/setlur_amrith/status/1739009154986160541) (NeurIPS R0-FoMo Workshop), 2023
+* NeurIPS 2023 Scholar Award, 2023
+* Rank #1 in [DataComp competition filtering track (small)](https://www.datacomp.ai/leaderboard.html) (ICCV TNGCV Workshop), 2023
+* CS Departmental Scholarship (University of Wisconsin-Madison), 2020
+* Merit-based Scholarship (SNU), 2015
 
 ### Work Experience
 
@@ -84,12 +110,3 @@ jong Rhee <br/>
 - Teaching assistant for CS 760 (Machine Learning), Fall 2021, Spring 2022
 - Teaching assistant for CS 320 (Data Programming II), Spring 2021
 - Teaching assistant for CS 220 (Data Programming I), Fall 2020
-
-
-
-### Honors
-
-* [Best Paper Award Honorable Mention](https://twitter.com/setlur_amrith/status/1739009154986160541), NeurIPS R0-FoMo Workshop, 2023
-* Rank #1 in [DataComp competition filtering track (small)](https://www.datacomp.ai/leaderboard.html), ICCV TNGCV Workshop, 2023
-* CS Departmental Scholarship, University of Wisconsin-Madison, 2020
-* Merit-based Scholarship, SNU, 2015
