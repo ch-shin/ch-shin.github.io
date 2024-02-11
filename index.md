@@ -7,21 +7,17 @@ I am a fourth-year PhD student in Computer Science at University of Wisconsin-Ma
 I am passionate about **foundation models**, such as **LLMs** and **MLLMs**. I investigate **data-centric** approaches, particularly **weak supervision**, aiming to generate/curate training data for these models efficiently. Concurrently, I explore **training-free adaptation** strategies, tailoring the behavior of these models to suit a variety of downstream tasks and data distributions effortlessly. In pursuit of these objectives, I have initiated and completed several projects:
 
 **Data-centric AI**
-
 * Extending weak supervision to any label spaces [ICLR'22]
 * Improving fairness of weak supervision [NeurIPS'23]
 * Enhancing multimodal data curation via ensemble of curating models [ICCVW'23]
 
 **Training-free adaptation**
-
 * Robustifying zero-shot models by leveraging insights from language models [ICLR'24]
 * Correcting label distribution mismatch of zero-shot models with optimal transport [Under review]
 * Enhancing data wrangling LLMs with in-context learning [NeurIPSW'23]
 
 ### News
-
 * (Feb. 2024) Our team (with [Dyah Adila](https://dyahadila.github.io/)) is shortlisted as one of the finalists in Qualcomm Innovation Fellowship 2024! 
-
 * (Jan. 2024) Our [paper on robustifying foundation models](https://openreview.net/forum?id=fCeUoDr9Tq) is accepted at ICLR 2024!
 * (Dec. 2023) Our [paper on robustifying foundation models](https://neurips.cc/virtual/2023/76545) was a **best paper award honorable mention** at the NeurIPS [R0-FoMo workshop](https://sites.google.com/view/r0-fomo)!
 * (Oct. 2023) A course team project on [data wrangling with LLM using retrieval-based in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ) is accepted at NeurIPS 2023 TRL workshop!
@@ -35,11 +31,8 @@ I am passionate about **foundation models**, such as **LLMs** and **MLLMs**. I i
 
 
 ### Publications
-
-* OTTER: Improving Zero-Shot Classification via Optimal Transport, Under review<br/>
-
-  **Changho Shin**, Jitian Zhao, Sonia Cromp, Harit Vishwakarma, Frederic Sala
-
+* OTTER: Improving Zero-Shot Classification via Optimal Transport, _Under Review_ <br/>
+**Changho Shin**, Jitian Zhao, Sonia Cromp, Harit Vishwakarma, Frederic Sala
 * [Zero-Shot Robustification of Zero-Shot Models](https://arxiv.org/abs/2309.04344), _ICLR 2024_ <br/>Also presented in _NeurIPS 2023 R0-FoMo Workshop_ (**Best Paper Award Honorable Mention**) <br/>
   Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 * [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ), _NeurIPS 2023 TRL Workshop_ <br/> **Changho Shin\***, Joon Suk Huh\*, Elina Choi
@@ -62,9 +55,7 @@ jong Rhee <br/>
 jong Rhee <br/>
 
 ### AWARDS
-
 * Qualcomm Innovation Fellowship Finalist, 2024
-
 * [Best Paper Award Honorable Mention](https://twitter.com/setlur_amrith/status/1739009154986160541) (NeurIPS R0-FoMo Workshop), 2023
 * NeurIPS 2023 Scholar Award, 2023
 * Rank #1 in [DataComp competition filtering track (small)](https://www.datacomp.ai/leaderboard.html) (ICCV TNGCV Workshop), 2023
@@ -72,22 +63,18 @@ jong Rhee <br/>
 * Merit-based Scholarship (SNU), 2015
 
 ### Work Experience
-
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
   <a href="https://about.twitter.com/en">Twitter</a>, San Francisco, USA
   <sup>2022.06 - 2022.08</sup>
 </h4>
-
 - Machine Learning Engineer Intern, Health Team
-
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
   <a href="enertalk.com">Encored Technologies</a>, Seoul, Korea
   <sup>2018.01 - 2020.07</sup>
 </h4>
-
 - Data Scientist, Applied Research Team
 - Projects: Deep Learning in NILM, Appliance Promotion based on Disaggregated Appliance Usage, Anomaly Detection in Photovoltaic System, Solar Power Generation Prediction
 
