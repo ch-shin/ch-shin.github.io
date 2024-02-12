@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am a fourth-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and entrepreneurship from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
+I am a fourth-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and information theory from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
 
-I am passionate about **foundation models**, such as **LLMs** and **MLLMs**. I investigate **data-centric** approaches, particularly **weak supervision**, aiming to generate/curate training data for these models efficiently. Concurrently, I explore **training-free adaptation** strategies, tailoring the behavior of these models to suit a variety of downstream tasks and data distributions effortlessly. In pursuit of these objectives, I have initiated and completed several projects:
+My research is focused on **foundation models**, including **large language models** and **multimodal foundation models**. Much of my work aims to efficiently help these models adopt new skills. This involves two prongs: **(1) data-centric approaches** for obtaining and selecting fine-tuning data, often by using a strategy called **weak supervision** and **(2) efficient adaptation**, including training-free approaches like **model editing**. Specifically, my previous research includes:
 
 **Data-centric AI**
 * Extending weak supervision to any label spaces [ICLR'22]
@@ -12,9 +12,9 @@ I am passionate about **foundation models**, such as **LLMs** and **MLLMs**. I i
 * Enhancing multimodal data curation via ensemble of curating models [ICCVW'23]
 
 **Training-free adaptation**
-* Robustifying zero-shot models by leveraging insights from language models [ICLR'24]
-* Correcting label distribution mismatch of zero-shot models with optimal transport [Under review]
+* Robustifying zero-shot models by leveraging insights from language models [NeurIPSW'23, ICLR'24]
 * Enhancing data wrangling LLMs with in-context learning [NeurIPSW'23]
+* Correcting label distribution mismatch of zero-shot models with optimal transport [Under review]
 
 ### News
 * (Feb. 2024) Our team (with [Dyah Adila](https://dyahadila.github.io/)) is shortlisted as one of the finalists in Qualcomm Innovation Fellowship 2024! 
