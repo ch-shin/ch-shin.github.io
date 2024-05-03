@@ -66,7 +66,7 @@ jong Rhee <br/>
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
-  <a href="https://about.twitter.com/en">Snorkel AI</a>, Redwood City, CA (Remote)
+  <a href="https://snorkel.ai/">Snorkel AI</a>, Redwood City, CA (Remote)
   <sup>2024.06 - 2024.08</sup>
 </h4>
 
