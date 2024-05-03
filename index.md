@@ -31,7 +31,7 @@ My research is focused on **foundation models**, including **large language mode
 
 
 ### Publications
-* OTTER: Improving Zero-Shot Classification via Optimal Transport, _Under Review_ <br/>
+* [OTTER: Improving Zero-Shot Classification via Optimal Transport](https://arxiv.org/abs/2404.08461), _Under Review_ <br/>
 **Changho Shin**, Jitian Zhao, Sonia Cromp, Harit Vishwakarma, Frederic Sala
 * [Zero-Shot Robustification of Zero-Shot Models](https://arxiv.org/abs/2309.04344), _ICLR 2024_ <br/>Also presented in _NeurIPS 2023 R0-FoMo Workshop_ (**Best Paper Award Honorable Mention**) <br/>
   Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
@@ -63,11 +63,21 @@ jong Rhee <br/>
 * Merit-based Scholarship (SNU), 2015
 
 ### Work Experience
+
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
-  <a href="https://about.twitter.com/en">Twitter</a>, San Francisco, USA
+  <a href="https://about.twitter.com/en">Snorkel AI</a>, Redwood City, CA (Remote)
+  <sup>2024.06 - 2024.08</sup>
+</h4>
+
+- Research Intern
+
+<h4 class="experience">
+  <i class="material-icons md-18">apartment</i>
+  <a href="https://about.twitter.com/en">Twitter</a>, San Francisco, CA
   <sup>2022.06 - 2022.08</sup>
 </h4>
+
 - Machine Learning Engineer Intern, Health Team
 
 <h4 class="experience">
