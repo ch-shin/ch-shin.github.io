@@ -4,17 +4,7 @@ layout: default
 
 I am a fifth-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and information theory from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
 
-My research is focused on **foundation models**, including **large language models** and **multimodal foundation models**. Much of my work aims to efficiently help these models adopt new skills. This involves two prongs: **(1) data-centric approaches** for obtaining and selecting fine-tuning data, often by using a strategy called **weak supervision** and **(2) efficient adaptation**, including training-free approaches like **model editing**. Specifically, my previous research includes:
-
-**Data-centric AI**
-* Extending weak supervision to any label spaces [ICLR'22]
-* Improving fairness of weak supervision [NeurIPS'23]
-* Enhancing multimodal data curation via ensemble of curating models [ICCVW'23]
-
-**Training-free adaptation**
-* Robustifying zero-shot models by leveraging insights from language models [NeurIPSW'23, ICLR'24]
-* Enhancing data wrangling LLMs with in-context learning [NeurIPSW'23]
-* Correcting label distribution mismatch of zero-shot models with optimal transport [NeurIPS'24]
+My research focuses on data-centric AI, with an emphasis on programmatic weak supervision and weak-to-strong generalization in foundation models. Additionally, I am developing techniques that enable zero-shot adaptation of foundation models without fine-tuning, addressing challenges related to data distribution shifts.
 
 **I expect to graduate with my Ph.D. in Summer 2025 and am actively seeking industry researcher positions.**
 
