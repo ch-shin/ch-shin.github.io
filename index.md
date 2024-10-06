@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a fourth-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and information theory from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
+I am a fifth-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and information theory from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
 
 My research is focused on **foundation models**, including **large language models** and **multimodal foundation models**. Much of my work aims to efficiently help these models adopt new skills. This involves two prongs: **(1) data-centric approaches** for obtaining and selecting fine-tuning data, often by using a strategy called **weak supervision** and **(2) efficient adaptation**, including training-free approaches like **model editing**. Specifically, my previous research includes:
 
@@ -14,9 +14,12 @@ My research is focused on **foundation models**, including **large language mode
 **Training-free adaptation**
 * Robustifying zero-shot models by leveraging insights from language models [NeurIPSW'23, ICLR'24]
 * Enhancing data wrangling LLMs with in-context learning [NeurIPSW'23]
-* Correcting label distribution mismatch of zero-shot models with optimal transport [Under review]
+* Correcting label distribution mismatch of zero-shot models with optimal transport [NeurIPS'24]
 
-### News
+**I expect to graduate with my Ph.D. in Summer 2025 and am actively seeking industry researcher positions.**
+
+
+<!-- ### News
 * (Feb. 2024) Our team (with [Dyah Adila](https://dyahadila.github.io/)) is shortlisted as one of the finalists in Qualcomm Innovation Fellowship 2024! 
 * (Jan. 2024) Our [paper on robustifying foundation models](https://openreview.net/forum?id=fCeUoDr9Tq) is accepted at ICLR 2024!
 * (Dec. 2023) Our [paper on robustifying foundation models](https://neurips.cc/virtual/2023/76545) was a **best paper award honorable mention** at the NeurIPS [R0-FoMo workshop](https://sites.google.com/view/r0-fomo)!
@@ -26,33 +29,53 @@ My research is focused on **foundation models**, including **large language mode
 * (Sep. 2023) Our team won [DataComp competition filtering track (small)](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf)!
 * (Oct. 2022) My internship project on [efficient use of crowd sourced labels](https://neurips2022-enlsp.github.io/papers/paper_21.pdf) is accepted at NeurIPS 2022 ENLSP-II workshop!
 * (Jun. 2022) Started my summer internship at Twitter!
-* (Jan. 2022) Our paper on [applying weak supervision to any metric spaces](https://arxiv.org/pdf/2112.03865.pdf) is accepted at ICLR 2022!
+* (Jan. 2022) Our paper on [applying weak supervision to any metric spaces](https://arxiv.org/pdf/2112.03865.pdf) is accepted at ICLR 2022! -->
 
 
 
 ### Publications
-* [OTTER: Improving Zero-Shot Classification via Optimal Transport](https://arxiv.org/abs/2404.08461), _Under Review_ <br/>
+[P4] Weak-to-Strong Generalization Through the Data-Centric Lens, _Under Review_ <br/>
+**Changho Shin**, John Cooper, Frederic Sala
+
+[P3] TARDIS: Mitigate Temporal Misalignment via Representation Steering, _Under Review_ <br/>
+**Changho Shin**, Xinya Yan, Frederic Sala
+
+[P2] [Evaluating Language Model Context Windows: A" Working Memory" Test and Inference-time Correction](https://arxiv.org/abs/2407.03651), _Under Review_ <br/>
+Amanda Dsouza, Christopher Glaze, **Changho Shin**, Frederic Sala
+
+[P1] [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642), _Under Review_ <br/>
+Dyah Adila, **Changho Shin**, Yijing Zhang, Frederic Sala
+
+[C5] [OTTER: Improving Zero-Shot Classification via Optimal Transport](https://arxiv.org/abs/2404.08461), _NeurIPS 2024_ <br/>
 **Changho Shin**, Jitian Zhao, Sonia Cromp, Harit Vishwakarma, Frederic Sala
-* [Zero-Shot Robustification of Zero-Shot Models](https://arxiv.org/abs/2309.04344), _ICLR 2024_ <br/>Also presented in _NeurIPS 2023 R0-FoMo Workshop_ (**Best Paper Award Honorable Mention**) <br/>
-  Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
-* [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ), _NeurIPS 2023 TRL Workshop_ <br/> **Changho Shin\***, Joon Suk Huh\*, Elina Choi
-* [Multimodal Data Curation via Object Detection and Filter Ensembles](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf), _ICCV 2023 DataComp Workshop_ <br/>
+
+[C4] [Zero-Shot Robustification of Zero-Shot Models](https://arxiv.org/abs/2309.04344), _ICLR 2024_ <br/>Also presented in _NeurIPS 2023 R0-FoMo Workshop_ (**Best Paper Award Honorable Mention**) <br/>
+Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
+
+[W3] [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ), _NeurIPS 2023 TRL Workshop_ <br/>
+**Changho Shin\***, Joon Suk Huh\*, Elina Choi
+
+[W2] [Multimodal Data Curation via Object Detection and Filter Ensembles](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf), _ICCV 2023 DataComp Workshop_ <br/>
   **Changho Shin\***, Tzu-heng Huang*, Sui Jiet Tay, Dyah Adila, Frederic Sala
-* [Mitigating Source Bias for Fairer Weak Supervision](https://arxiv.org/abs/2303.17713), _NeurIPS 2023_ <br/>
+
+[C3] [Mitigating Source Bias for Fairer Weak Supervision](https://arxiv.org/abs/2303.17713), _NeurIPS 2023_ <br/>
   **Changho Shin**, Sonia Cromp, Dyah Adila, Frederic Sala
-* [Can we get smarter than majority vote? Efficient use of individual rater’s labels for content moderation](https://neurips2022-enlsp.github.io/papers/paper_21.pdf), _NeurIPS 2022 ENLSP Workshop_ <br/>
+
+[W1] [Can we get smarter than majority vote? Efficient use of individual rater’s labels for content moderation](https://neurips2022-enlsp.github.io/papers/paper_21.pdf), _NeurIPS 2022 ENLSP Workshop_ <br/>
   **Changho Shin**, Alice Schoenauer Sebag
-* [Universalizing Weak Supervision](https://arxiv.org/pdf/2112.03865.pdf), _ICLR 2022_ <br/>
+
+[C2] [Universalizing Weak Supervision](https://arxiv.org/pdf/2112.03865.pdf), _ICLR 2022_ <br/>
   **Changho Shin**, Winfred Li, Harit Vishwakarma, Nicholas Roberts, Frederic Sala <br/>
-* [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
+
+[J2] [The ENERTALK dataset, 15 Hz electricity consumption data from 22 houses in
 Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data_ <br/>
-**Changho Shin**, Eunjung Lee, Jeongyun Han, Jaeryun Yim, Hyoseop Lee, and Won-
-jong Rhee <br/>
-* [Data Requirements for Applying Machine Learning to Energy Disaggregation](https://www.mdpi.com/1996-1073/12/9/1696), _Energies_ <br/>
+**Changho Shin**, Eunjung Lee, Jeongyun Han, Jaeryun Yim, Hyoseop Lee, and Wonjong Rhee <br/>
+
+[J1] [Data Requirements for Applying Machine Learning to Energy Disaggregation](https://www.mdpi.com/1996-1073/12/9/1696), _Energies_ <br/>
 **Changho Shin**, Seungeun Rho, Hyoseop Lee, and Wonjong Rhee <br/>
-* [Subtask Gated Networks for Non-Intrusive Load Monitoring](https://www.aaai.org/ojs/index.php/AAAI/article/view/3908), _AAAI 2019_ <br/>
-**Changho Shin**, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Won-
-jong Rhee <br/>
+
+[C1] [Subtask Gated Networks for Non-Intrusive Load Monitoring](https://www.aaai.org/ojs/index.php/AAAI/article/view/3908), _AAAI 2019_ <br/>
+**Changho Shin**, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Wonjong Rhee <br/>
 
 ### AWARDS
 * Qualcomm Innovation Fellowship Finalist, 2024
