@@ -61,13 +61,13 @@ Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data
 **Changho Shin**, Seungeun Rho, Hyoseop Lee, and Wonjong Rhee <br/>
 
 ### Workshop Publications
-[W4] [Foundation Models Can Robustify Themselves, For Free](https://openreview.net/forum?id=XoacWibt7b) **(Best Paper Award Honorable Mention)**, _NeurIPS 2023 R0-FoMo Workshop_ <br/>
+[W4] [Foundation Models Can Robustify Themselves, For Free](https://openreview.net/forum?id=XoacWibt7b), _NeurIPS 2023 R0-FoMo Workshop_ **(Best Paper Award Honorable Mention)**<br/>
 Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
-[W3] [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ) **(Oral)**, _NeurIPS 2023 TRL Workshop_ <br/>
+[W3] [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ) , _NeurIPS 2023 TRL Workshop_ **(Oral)**<br/>
 **Changho Shin\***, Joon Suk Huh\*, Elina Choi
 
-[W2] [Multimodal Data Curation via Object Detection and Filter Ensembles](https://arxiv.org/abs/2401.12225) **(Filtering Track Rank #1 (Small))**, _ICCV 2023 DataComp Workshop_ <br/>
+[W2] [Multimodal Data Curation via Object Detection and Filter Ensembles](https://arxiv.org/abs/2401.12225), _ICCV 2023 DataComp Workshop_ **(Filtering Track Rank #1 (Small))**<br/>
   **Changho Shin\***, Tzu-heng Huang*, Sui Jiet Tay, Dyah Adila, Frederic Sala
 
 [W1] [Can we get smarter than majority vote? Efficient use of individual rater’s labels for content moderation](https://neurips2022-enlsp.github.io/papers/paper_21.pdf), _NeurIPS 2022 ENLSP Workshop_ <br/>
