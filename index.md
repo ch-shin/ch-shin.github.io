@@ -5,8 +5,8 @@ layout: default
 I am a fifth-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and information theory from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
 
 My research focuses on data-centric AI, with an emphasis on programmatic weak supervision and weak-to-strong generalization in foundation models. Additionally, I am developing techniques that enable zero-shot adaptation of foundation models without fine-tuning, addressing challenges related to data distribution shifts.
-
-**I expect to graduate with my Ph.D. in Summer 2025 and am actively seeking industry researcher positions.**
+<!-- 
+**I expect to graduate with my Ph.D. in Summer 2025 and am actively seeking industry researcher positions.** -->
 
 
 <!-- ### News
@@ -24,11 +24,11 @@ My research focuses on data-centric AI, with an emphasis on programmatic weak su
 
 
 ### Publications
-[P4] Weak-to-Strong Generalization Through the Data-Centric Lens, _Under Review_ <br/>
+[P3] Weak-to-Strong Generalization Through the Data-Centric Lens, _Under Review_ <br/>
 **Changho Shin**, John Cooper, Frederic Sala
 
-[P3] TARDIS: Mitigate Temporal Misalignment via Representation Steering, _Under Review_ <br/>
-**Changho Shin**, Xinya Yan, Frederic Sala
+<!-- [P3] TARDIS: Mitigate Temporal Misalignment via Representation Steering, _Under Review_ <br/>
+**Changho Shin**, Xinya Yan, Frederic Sala -->
 
 [P2] [Evaluating Language Model Context Windows: A" Working Memory" Test and Inference-time Correction](https://arxiv.org/abs/2407.03651), _Under Review_ <br/>
 Amanda Dsouza, Christopher Glaze, **Changho Shin**, Frederic Sala
