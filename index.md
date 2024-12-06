@@ -25,7 +25,7 @@ My research focuses on data-centric AI, with an emphasis on programmatic weak su
 * (Jan. 2022) Our paper on [applying weak supervision to any metric spaces](https://arxiv.org/pdf/2112.03865.pdf) is accepted at ICLR 2022!
 
 ### Preprints
-[P3] Weak-to-Strong Generalization Through the Data-Centric Lens, _Under Review_ <br/>
+[P3] [Weak-to-Strong Generalization Through the Data-Centric Lens](https://arxiv.org/abs/2412.03881), _Under Review_ <br/>
 **Changho Shin**, John Cooper, Frederic Sala
 
 [P2] [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642), _Under Review_ <br/>
