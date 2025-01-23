@@ -11,12 +11,13 @@ My research focuses on data-centric AI, with an emphasis on programmatic weak su
 
 ### News
 * (Jan. 2025) Our [paper on weak-to-strong generalization](https://arxiv.org/abs/2412.03881) is accepted at ICLR 2025!
-* (Jan. 2025) Our [paper on LLM personalization at inference time] is accepted at NAACL 2025 Findings!
+* (Jan. 2025) Our paper on LLM personalization at inference time is accepted at NAACL 2025 Findings!
 * (Sep. 2024) Our [paper on effortless label distribution adaptation](https://arxiv.org/abs/2404.08461) is accepted at NeurIPS 2024!
 * (Jun. 2024) New preprint on [free self-alignment](https://arxiv.org/abs/2406.03642)!
 * (Jun. 2024) Started my summer internship at Snorkel AI!
 * (Feb. 2024) Our team (with [Dyah Adila](https://dyahadila.github.io/)) is shortlisted as one of the finalists in Qualcomm Innovation Fellowship 2024! 
 * (Jan. 2024) Our [paper on robustifying foundation models](https://openreview.net/forum?id=fCeUoDr9Tq) is accepted at ICLR 2024!
+
 <!-- * (Dec. 2023) Our [paper on robustifying foundation models](https://neurips.cc/virtual/2023/76545) was a **best paper award honorable mention** at the NeurIPS [R0-FoMo workshop](https://sites.google.com/view/r0-fomo)!
 * (Oct. 2023) A course team project on [data wrangling with LLM using retrieval-based in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ) is accepted at NeurIPS 2023 TRL workshop!
 * (Oct. 2023) New preprint on [utilizing knowledge from language model for zero-shot classification](https://arxiv.org/abs/2309.04344)! It's accepted at NeurIPS 2023 R0-FoMo workshop!
