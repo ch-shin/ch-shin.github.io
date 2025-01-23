@@ -4,37 +4,39 @@ layout: default
 
 I am a fifth-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and information theory from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
 
-My research focuses on data-centric AI, with an emphasis on programmatic weak supervision and weak-to-strong generalization in foundation models. Additionally, I am developing techniques that enable zero-shot adaptation of foundation models without fine-tuning, addressing challenges related to data distribution shifts.
+My research focuses on data-centric AI, with an emphasis on programmatic weak supervision and weak-to-strong generalization in foundation models. Additionally, I am developing techniques to enable the zero-shot adaptation of foundation models without fine-tuning, facilitating robustification, alignment, and personalization at inference time.
 <!-- 
 **I expect to graduate with my Ph.D. in Summer 2025 and am actively seeking industry researcher positions.** -->
 
 
 ### News
+* (Jan. 2025) Our [paper on weak-to-strong generalization](https://arxiv.org/abs/2412.03881) is accepted at ICLR 2025!
+* (Jan. 2025) Our [paper on LLM personalization at inference time] is accepted at NAACL 2025 Findings!
 * (Sep. 2024) Our [paper on effortless label distribution adaptation](https://arxiv.org/abs/2404.08461) is accepted at NeurIPS 2024!
 * (Jun. 2024) New preprint on [free self-alignment](https://arxiv.org/abs/2406.03642)!
 * (Jun. 2024) Started my summer internship at Snorkel AI!
 * (Feb. 2024) Our team (with [Dyah Adila](https://dyahadila.github.io/)) is shortlisted as one of the finalists in Qualcomm Innovation Fellowship 2024! 
 * (Jan. 2024) Our [paper on robustifying foundation models](https://openreview.net/forum?id=fCeUoDr9Tq) is accepted at ICLR 2024!
-* (Dec. 2023) Our [paper on robustifying foundation models](https://neurips.cc/virtual/2023/76545) was a **best paper award honorable mention** at the NeurIPS [R0-FoMo workshop](https://sites.google.com/view/r0-fomo)!
+<!-- * (Dec. 2023) Our [paper on robustifying foundation models](https://neurips.cc/virtual/2023/76545) was a **best paper award honorable mention** at the NeurIPS [R0-FoMo workshop](https://sites.google.com/view/r0-fomo)!
 * (Oct. 2023) A course team project on [data wrangling with LLM using retrieval-based in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ) is accepted at NeurIPS 2023 TRL workshop!
 * (Oct. 2023) New preprint on [utilizing knowledge from language model for zero-shot classification](https://arxiv.org/abs/2309.04344)! It's accepted at NeurIPS 2023 R0-FoMo workshop!
 * (Sep. 2023) Our paper on [fair weak supervision](https://drl.snu.ac.kr/people/professor) is accepted at NeurIPS 2023!
 * (Sep. 2023) Our team won [DataComp competition filtering track (small)](https://ch-shin.github.io/assets/ICCV23_Workshop_Sprocket_Lab_DataComp.pdf)!
 * (Oct. 2022) My internship project on [efficient use of crowd sourced labels](https://neurips2022-enlsp.github.io/papers/paper_21.pdf) is accepted at NeurIPS 2022 ENLSP-II workshop!
 * (Jun. 2022) Started my summer internship at Twitter!
-* (Jan. 2022) Our paper on [applying weak supervision to any metric spaces](https://arxiv.org/pdf/2112.03865.pdf) is accepted at ICLR 2022!
+* (Jan. 2022) Our paper on [applying weak supervision to any metric spaces](https://arxiv.org/pdf/2112.03865.pdf) is accepted at ICLR 2022! -->
 
-### Preprints
-[P3] [Weak-to-Strong Generalization Through the Data-Centric Lens](https://arxiv.org/abs/2412.03881), _Under Review_ <br/>
-**Changho Shin**, John Cooper, Frederic Sala
+<!-- ### Preprints -->
 
-[P2] [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642), _Under Review_ <br/>
-Dyah Adila, **Changho Shin**, Yijing Zhang, Frederic Sala
 
-[P1] Personalize Your LLM: Fake it then Align it, _Under Review_ <br/>
-Yijing Zhang, Dyah Adila, **Changho Shin**, Frederic Sala
+
 
 ### Conference Publications
+[C7] [Weak-to-Strong Generalization Through the Data-Centric Lens](https://arxiv.org/abs/2412.03881), _ICLR 2025_ <br/>
+**Changho Shin**, John Cooper, Frederic Sala
+
+[C6] Personalize Your LLM: Fake it then Align it, _NAACL 2025 Findings_ <br/>
+Yijing Zhang, Dyah Adila, **Changho Shin**, Frederic Sala
 
 [C5] [OTTER: Improving Zero-Shot Classification via Optimal Transport](https://arxiv.org/abs/2404.08461), _NeurIPS 2024_ <br/>
 **Changho Shin**, Jitian Zhao, Sonia Cromp, Harit Vishwakarma, Frederic Sala
@@ -61,6 +63,9 @@ Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data
 **Changho Shin**, Seungeun Rho, Hyoseop Lee, and Wonjong Rhee <br/>
 
 ### Workshop Publications
+[W5] [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642), _NeurIPS 2024 MINT Workshop_ <br/>
+Dyah Adila, **Changho Shin**, Yijing Zhang, Frederic Sala
+
 [W4] [Foundation Models Can Robustify Themselves, For Free](https://openreview.net/forum?id=XoacWibt7b), _NeurIPS 2023 R0-FoMo Workshop_ **(Best Paper Award Honorable Mention)**<br/>
 Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
