@@ -80,7 +80,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 
 ### AWARDS
-* Qualcomm Innovation Fellowship Finalist, 2024
+* [Qualcomm Innovation Fellowship Finalist](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists), 2024
 * [Best Paper Award Honorable Mention](https://twitter.com/setlur_amrith/status/1739009154986160541) (NeurIPS R0-FoMo Workshop), 2023
 * NeurIPS 2023 Scholar Award, 2023
 * Rank #1 in [DataComp competition filtering track (small)](https://www.datacomp.ai/leaderboard.html) (ICCV TNGCV Workshop), 2023
