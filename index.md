@@ -10,7 +10,7 @@ My research focuses on data-centric AI, with an emphasis on programmatic weak su
 
 ### News
 * (Jan. 2025) Our [paper on weak-to-strong generalization](https://arxiv.org/abs/2412.03881) is accepted at ICLR 2025!
-* (Jan. 2025) Our paper on LLM personalization at inference time is accepted at NAACL 2025 Findings!
+* (Jan. 2025) Our [paper on LLM personalization at inference time](https://arxiv.org/abs/2503.01048) is accepted at NAACL 2025 Findings!
 * (Sep. 2024) Our [paper on effortless label distribution adaptation](https://arxiv.org/abs/2404.08461) is accepted at NeurIPS 2024!
 * (Jun. 2024) New preprint on [free self-alignment](https://arxiv.org/abs/2406.03642)!
 * (Jun. 2024) Started my summer internship at Snorkel AI!
@@ -35,7 +35,7 @@ My research focuses on data-centric AI, with an emphasis on programmatic weak su
 [C7] [Weak-to-Strong Generalization Through the Data-Centric Lens](https://arxiv.org/abs/2412.03881), _ICLR 2025_ <br/>
 **Changho Shin**, John Cooper, Frederic Sala
 
-[C6] Personalize Your LLM: Fake it then Align it, _NAACL 2025 Findings_ <br/>
+[C6] [Personalize Your LLM: Fake it then Align it](https://arxiv.org/abs/2503.01048), _NAACL 2025 Findings_ <br/>
 Yijing Zhang, Dyah Adila, **Changho Shin**, Frederic Sala
 
 [C5] [OTTER: Improving Zero-Shot Classification via Optimal Transport](https://arxiv.org/abs/2404.08461), _NeurIPS 2024_ <br/>
