@@ -91,11 +91,22 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
+  <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/">Microsoft Research/a>, Cambridge, MA
+  <sup>2025.06 - 2025.08</sup>
+</h4>
+
+- (Incoming) Research Intern
+- Mentor: [David Alvarez-Melis](https://dmelis.github.io/)
+
+<h4 class="experience">
+  <i class="material-icons md-18">apartment</i>
   <a href="https://snorkel.ai/">Snorkel AI</a>, Redwood City, CA (Remote)
   <sup>2024.06 - 2024.08</sup>
 </h4>
 
 - Research Intern
+- Mentor: [Chris Glaze](https://snorkel.ai/author/chris-glaze/), [Paroma Varma](https://snorkel.ai/author/paroma-varma/)
+- Projects: Reward Modeling, Synthetic Data Generation
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
@@ -104,6 +115,8 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 </h4>
 
 - Machine Learning Engineer Intern, Health Team
+- Mentor: [Alice Schoenauer Sebag](https://www.linkedin.com/in/alice-schoenauer-sebag-999ba67a/), [Milind Ganzoo](https://www.linkedin.com/in/mganjoo/)
+- Projects: Improving toxicity classification with weak supervision
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
