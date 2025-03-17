@@ -91,7 +91,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
-  <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/">Microsoft Research/a>, Cambridge, MA
+  <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/">Microsoft Research</a>, Cambridge, MA
   <sup>2025.06 - 2025.08</sup>
 </h4>
 
