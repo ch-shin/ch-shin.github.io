@@ -6,8 +6,6 @@ I am a fifth-year PhD student in Computer Science at University of Wisconsin-Mad
 
 My research focuses on data-centric AI, with an emphasis on programmatic weak supervision and weak-to-strong generalization in foundation models. Additionally, I am developing techniques to enable the zero-shot adaptation of foundation models without fine-tuning, facilitating robustification, alignment, and personalization at inference time.
 
-**I am actively looking for Fall 2025 research internship opportunities.**
-
 ### News
 * (Jan. 2025) Our [paper on weak-to-strong generalization](https://arxiv.org/abs/2412.03881) is accepted at ICLR 2025!
 * (Jan. 2025) Our [paper on LLM personalization at inference time](https://arxiv.org/abs/2503.01048) is accepted at NAACL 2025 Findings!
