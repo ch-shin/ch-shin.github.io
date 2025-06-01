@@ -95,7 +95,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
   <sup>2025.06 - 2025.08</sup>
 </h4>
 
-- (Incoming) Research Intern
+- Research Intern
 - Mentor: [David Alvarez-Melis](https://dmelis.github.io/)
 
 <h4 class="experience">
