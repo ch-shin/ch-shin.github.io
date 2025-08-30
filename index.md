@@ -2,13 +2,14 @@
 layout: default
 ---
 
-I am a fifth-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and information theory from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
+I am a final-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and information theory from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
 
-My research focuses on data-centric AI, particularly programmatic weak supervision and weak-to-strong generalization in foundation models. I have also worked on zero-shot adaptation techniques to enhance robustification, alignment, and personalization of foundation models at inference time without fine-tuning.
+My research focuses on data-centric AI, particularly programmatic weak supervision and weak-to-strong generalization in foundation models. These approaches use weaker models as supervision sources to train stronger models, providing labels, reward signals, and verification signals that guide more capable systems. I have also explored inference-time steering, which involves intervening on internal representations to improve robustness, alignment, and personalization of foundation models at inference time without fine-tuning.
 
-Looking ahead, my overarching vision is to develop effective strategies for supervising superhuman-level intelligence, including large language models (LLMs) and multimodal models (MLLMs), where traditional human oversight becomes insufficient. As part of this vision, I am exploring weak-to-strong generalization as a core principle, alongside potential approaches such as scalable oversight—leveraging synthetic data and curriculum learning—and mechanisms for self-improvement and dynamic alignment during inference.
+Looking ahead, my vision is to develop strategies for supervising superhuman-level intelligence, where traditional human oversight is no longer sufficient. My research currently focuses on two directions. The first is weak-to-strong generalization, where weaker models are used as supervision sources to train stronger ones, providing labels, reward signals, and verification for more capable systems. The second is out-of-distribution (OOD) generalization, including challenges such as easy-to-hard generalization, length generalization, and compositional generalization.
 
 ### News
+* (Jun. 2025) Started my summer internship at MSR New England!
 * (Jan. 2025) Our [paper on weak-to-strong generalization](https://arxiv.org/abs/2412.03881) is accepted at ICLR 2025!
 * (Jan. 2025) Our [paper on LLM personalization at inference time](https://arxiv.org/abs/2503.01048) is accepted at NAACL 2025 Findings!
 * (Sep. 2024) Our [paper on effortless label distribution adaptation](https://arxiv.org/abs/2404.08461) is accepted at NeurIPS 2024!
@@ -97,6 +98,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 - Research Intern
 - Mentor: [David Alvarez-Melis](https://dmelis.github.io/)
+- Project: *Curriculum Learning as Transport: Training Along Wasserstein Geodesics*
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
@@ -106,7 +108,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 - Research Intern
 - Mentor: [Chris Glaze](https://snorkel.ai/author/chris-glaze/), [Paroma Varma](https://snorkel.ai/author/paroma-varma/)
-- Projects: Reward Modeling, Synthetic Data Generation
+- Projects: *Reward Modeling, Synthetic Data Generation, LLM Evaluation*
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
@@ -116,7 +118,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 - Machine Learning Engineer Intern, Health Team
 - Mentor: [Alice Schoenauer Sebag](https://www.linkedin.com/in/alice-schoenauer-sebag-999ba67a/), [Milind Ganzoo](https://www.linkedin.com/in/mganjoo/)
-- Projects: Improving toxicity classification with weak supervision
+- Project: [*Improving toxicity classification with weak supervision*](https://neurips2022-enlsp.github.io/papers/paper_21.pdf)
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
@@ -124,7 +126,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
   <sup>2018.01 - 2020.07</sup>
 </h4>
 - Data Scientist, Applied Research Team
-- Projects: Deep Learning in NILM, Appliance Promotion based on Disaggregated Appliance Usage, Anomaly Detection in Photovoltaic System, Solar Power Generation Prediction
+- Projects: *Deep Learning in NILM, Appliance Promotion based on Disaggregated Appliance Usage, Anomaly Detection in Photovoltaic System, Solar Power Generation Prediction*
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
@@ -132,7 +134,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
   <sup>2017.01 - 2017.12</sup>
 </h4>
 - Researcher, Defense Information Planning Division
-- Topics: Informatization Policy, Artificial Intelligence
+- Topics: *Informatization Policy, Artificial Intelligence*
 
 ### Teaching Experience
 <h4 class="experience">
@@ -140,7 +142,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
   <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>
   <sup>2020.09 -</sup>
 </h4>
-- Teaching assistant for CS 839 (Foundation Models and the Future of Machine Learning), Fall 2023
+- Teaching assistant for CS 839 (Foundation Models and the Future of Machine Learning), Fall 2023, Fall 2025
 - Teaching assistant for CS 300 (Programming II), Fall 2022, Spring 2023
 - Teaching assistant for CS 760 (Machine Learning), Fall 2021, Spring 2022
 - Teaching assistant for CS 320 (Data Programming II), Spring 2021
