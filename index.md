@@ -67,7 +67,7 @@ Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data
 [W8] [Curriculum Learning as Transport: Training Along Wasserstein Geodesics](https://sites.google.com/view/ccfm-neurips2025), _NeurIPS 2025 CCFM Workshop_ <br/>
 **Changho Shin**, David Alvarez-Melis
 
-[W7] [From Many Voices to One: A Statistically Principled Aggregation of LLM Judges](https://sites.google.com/view/llm-eval-workshop?pli=1), _NeurIPS 2025 LLM Evaluation Workshop_; [Reliable ML Workshop](https://reliablemlworkshop.github.io/) <br/>
+[W7] [From Many Voices to One: A Statistically Principled Aggregation of LLM Judges](https://sites.google.com/view/llm-eval-workshop?pli=1), _NeurIPS 2025 LLM Evaluation Workshop_; Reliable ML Workshop <br/>
 Jitian Zhao\*, **Changho Shin\***, Tzu-Heng Huang, Srinath Namburi, Frederic Sala
 
 [W6] [LLM-Integrated Bayesian State Space Models for Multimodal Time-Series Forecasting](https://berts-workshop.github.io/), _NeurIPS 2025 BERT2S Workshop_ <br/>
