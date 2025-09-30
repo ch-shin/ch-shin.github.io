@@ -64,21 +64,29 @@ Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data
 **Changho Shin**, Seungeun Rho, Hyoseop Lee, and Wonjong Rhee <br/>
 
 ### Workshop Publications
+[W8] [Curriculum Learning as Transport: Training Along Wasserstein Geodesics](https://sites.google.com/view/ccfm-neurips2025), _NeurIPS 2025 CCFM Workshop_ <br/>
+**Changho Shin**, David Alvarez-Melis
+
+[W7] [From Many Voices to One: A Statistically Principled Aggregation of LLM Judges](https://sites.google.com/view/llm-eval-workshop?pli=1), _NeurIPS 2025 LLM Evaluation Workshop_; [Reliable ML Workshop](https://reliablemlworkshop.github.io/) <br/>
+Jitian Zhao\*, **Changho Shin\***, Tzu-Heng Huang, Srinath Namburi, Frederic Sala
+
+[W6] [LLM-Integrated Bayesian State Space Models for Multimodal Time-Series Forecasting](https://berts-workshop.github.io/), _NeurIPS 2025 BERT2S Workshop_ <br/>
+Sungjun Cho, **Changho Shin**, Suenggwan Jo, Xinya Yan, Shourjo Aditya Chaudhuri, Frederic Sala
+
 [W5] [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642), _NeurIPS 2024 MINT Workshop_ <br/>
 Dyah Adila, **Changho Shin**, Yijing Zhang, Frederic Sala
 
 [W4] [Foundation Models Can Robustify Themselves, For Free](https://openreview.net/forum?id=XoacWibt7b), _NeurIPS 2023 R0-FoMo Workshop_ **(Best Paper Award Honorable Mention)**<br/>
 Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
-[W3] [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ) , _NeurIPS 2023 TRL Workshop_ **(Oral)**<br/>
+[W3] [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ), _NeurIPS 2023 TRL Workshop_ **(Oral)**<br/>
 **Changho Shin\***, Joon Suk Huh\*, Elina Choi
 
 [W2] [Multimodal Data Curation via Object Detection and Filter Ensembles](https://arxiv.org/abs/2401.12225), _ICCV 2023 DataComp Workshop_ **(Filtering Track Rank #1 (Small))**<br/>
-  **Changho Shin\***, Tzu-heng Huang*, Sui Jiet Tay, Dyah Adila, Frederic Sala
+**Changho Shin\***, Tzu-heng Huang\*, Sui Jiet Tay, Dyah Adila, Frederic Sala
 
 [W1] [Can we get smarter than majority vote? Efficient use of individual rater’s labels for content moderation](https://neurips2022-enlsp.github.io/papers/paper_21.pdf), _NeurIPS 2022 ENLSP Workshop_ <br/>
-  **Changho Shin**, Alice Schoenauer Sebag
-
+**Changho Shin**, Alice Schoenauer Sebag
 
 ### AWARDS
 * [Qualcomm Innovation Fellowship Finalist](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists), 2024
