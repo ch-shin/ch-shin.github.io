@@ -10,4 +10,4 @@ theme: jekyll-theme-minimal
 
 header_pages:
   - index.md
-  - thoughts.md      # whatever you named the page
+  - blog.md

@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=Source+Serif+4:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -14,42 +17,86 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <!--
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        -->
-        <h1 class="title">{{ site.title }}</h1>
-        <h2 class="subtitle">{{ site.subtitle }}</h2>
-
-        {% if site.face %}
-          <img src="{{site.face | relative_url}}" alt="Face" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <!-- <i class="material-icons md-18">location_on</i> {{ site.location }}<br/> -->
-        <i class="material-icons md-18">email</i> {{ site.email }}<br/>
-        <!-- <a href="{{ site.homepage }}">
-          <i class="material-icons md-18">home</i> {{ site.homepage }}<br/>
-        </a> -->
-        <a href="{{ site.twitter }}">
-          <i class="fab fa-twitter"></i> Twitter<br/>
-        </a>
-        <a href="{{ site.github }}">
-          <i class="fab fa-github"></i> Github<br/>
-        </a>
-        <a href="{{ site.cv }}">
-          <i class="material-icons md-18">insert_drive_file</i> CV<br/>
-        </a>
-
+    <div class="page-shell">
+      <header class="site-header">
+        <div class="container nav-row">
+          <a class="brand" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+          <nav class="nav-links">
+            <a class="nav-link{% if page.url == "/" %} is-active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
+            <a class="nav-link{% if page.url contains "/blog/" or page.layout == "post" %} is-active{% endif %}" href="{{ "/blog/" | relative_url }}">Blog</a>
+          </nav>
+          <div class="nav-actions">
+            <a class="nav-link nav-pill" href="{{ site.cv }}">CV</a>
+            <a class="nav-icon" href="{{ site.github }}" aria-label="GitHub">
+              <i class="fab fa-github"></i>
+            </a>
+            <a class="nav-icon" href="{{ site.twitter }}" aria-label="Twitter">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </div>
+        </div>
       </header>
-      <section>
 
-      {{ content }}
-
+      {% if page.url == "/" %}
+      <section class="hero">
+        <div class="container hero-grid">
+          <div class="hero-media">
+            {% if site.face %}
+              <img class="avatar" src="{{ site.face | relative_url }}" alt="{{ site.title }} portrait" />
+            {% endif %}
+            <div class="hero-meta">
+              <div class="meta-row">
+                <i class="material-icons md-18">email</i>
+                <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+              </div>
+              <div class="meta-row">
+                <i class="material-icons md-18">insert_drive_file</i>
+                <a href="{{ site.cv }}">Curriculum Vitae</a>
+              </div>
+            </div>
+          </div>
+          <div class="hero-content">
+            <h1>{{ site.title }}</h1>
+            <p class="hero-subtitle">{{ site.subtitle }}</p>
+            <p class="hero-summary">{{ site.description | default: site.github.project_tagline }}</p>
+            <div class="hero-actions">
+              <a class="btn btn-primary" href="mailto:{{ site.email }}">Email</a>
+              <a class="btn btn-ghost" href="{{ site.cv }}">View CV</a>
+              <a class="btn btn-ghost" href="{{ "/blog/" | relative_url }}">Read Blog</a>
+            </div>
+            <div class="hero-links">
+              <a href="{{ site.github }}">GitHub</a>
+              <a href="{{ site.twitter }}">Twitter</a>
+            </div>
+          </div>
+        </div>
       </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages<br/> Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      {% endif %}
+
+      {% if page.url != "/" and page.title and page.layout != "post" %}
+      <section class="page-hero">
+        <div class="container">
+          <h1>{{ page.title }}</h1>
+          {% if page.description %}
+            <p class="muted">{{ page.description }}</p>
+          {% endif %}
+        </div>
+      </section>
+      {% endif %}
+
+      <main class="main-content">
+        <div class="container">
+          <div class="page-content content-stagger">
+            {{ content }}
+          </div>
+        </div>
+      </main>
+
+      <footer class="site-footer">
+        <div class="container footer-inner">
+          <p>Hosted on GitHub Pages</p>
+          <p>Design inspired by Wowchemy</p>
+        </div>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
