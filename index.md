@@ -1,22 +1,21 @@
 ---
 layout: default
 ---
+I am a postdoctoral researcher in the Department of Computer Science at Princeton University, where I work with [Brenden Lake](https://www.cs.princeton.edu/~bl8144/). I completed my Ph.D. in Computer Science at the [University of Wisconsin–Madison](https://www.cs.wisc.edu/) under the supervision of Frederic Sala. Prior to that, I studied psychology and computer science at [Seoul National University](https://en.snu.ac.kr/).
 
-I am a final-year PhD student in Computer Science at University of Wisconsin-Madison, where I am fortunate to be advised by [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Before that, I was a master's student at [Seoul National University](https://convergence.snu.ac.kr/), where I was lucky to learn deep learning, exploratory data analysis, and information theory from [Wonjong Rhee](https://drl.snu.ac.kr/people/professor). Prior to that, I received B.A in [Psychology](http://psych.snu.ac.kr/) and B.S. in [Computer Science and Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://en.snu.ac.kr/).
-
-My research focuses on data-centric AI, particularly programmatic weak supervision and weak-to-strong generalization in foundation models. These approaches use weaker models as supervision sources to train stronger models, providing labels, reward signals, and verification signals that guide more capable systems. I have also explored inference-time steering, which involves intervening on internal representations to improve robustness, alignment, and personalization of foundation models at inference time without fine-tuning.
-
-Looking ahead, my vision is to develop strategies for supervising superhuman-level intelligence, where traditional human oversight is no longer sufficient. My research currently focuses on two directions. The first is weak-to-strong generalization, where weaker models are used as supervision sources to train stronger ones, providing labels, reward signals, and verification for more capable systems. The second is out-of-distribution (OOD) generalization, including challenges such as easy-to-hard generalization, length generalization, and compositional generalization.
+My research centers on data-centric AI, focusing on methods for learning from imperfect supervision and improving the reliability of modern ML systems.
 
 ### News
+* (Feb. 2026) Started a postdoctoral position at Princeton University.
+* (Dec. 2025) Defended my Ph.D. dissertation.
 * (Jun. 2025) Started my summer internship at MSR New England!
 * (Jan. 2025) Our [paper on weak-to-strong generalization](https://arxiv.org/abs/2412.03881) is accepted at ICLR 2025!
 * (Jan. 2025) Our [paper on LLM personalization at inference time](https://arxiv.org/abs/2503.01048) is accepted at NAACL 2025 Findings!
-* (Sep. 2024) Our [paper on effortless label distribution adaptation](https://arxiv.org/abs/2404.08461) is accepted at NeurIPS 2024!
+<!-- * (Sep. 2024) Our [paper on effortless label distribution adaptation](https://arxiv.org/abs/2404.08461) is accepted at NeurIPS 2024!
 * (Jun. 2024) New preprint on [free self-alignment](https://arxiv.org/abs/2406.03642)!
 * (Jun. 2024) Started my summer internship at Snorkel AI!
 * (Feb. 2024) Our team (with [Dyah Adila](https://dyahadila.github.io/)) is shortlisted as one of the finalists in Qualcomm Innovation Fellowship 2024! 
-* (Jan. 2024) Our [paper on robustifying foundation models](https://openreview.net/forum?id=fCeUoDr9Tq) is accepted at ICLR 2024!
+* (Jan. 2024) Our [paper on robustifying foundation models](https://openreview.net/forum?id=fCeUoDr9Tq) is accepted at ICLR 2024! -->
 
 <!-- * (Dec. 2023) Our [paper on robustifying foundation models](https://neurips.cc/virtual/2023/76545) was a **best paper award honorable mention** at the NeurIPS [R0-FoMo workshop](https://sites.google.com/view/r0-fomo)!
 * (Oct. 2023) A course team project on [data wrangling with LLM using retrieval-based in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ) is accepted at NeurIPS 2023 TRL workshop!
@@ -28,9 +27,10 @@ Looking ahead, my vision is to develop strategies for supervising superhuman-lev
 * (Jan. 2022) Our paper on [applying weak supervision to any metric spaces](https://arxiv.org/pdf/2112.03865.pdf) is accepted at ICLR 2022! -->
 
 <!-- ### Preprints -->
-
-
-
+### Doctoral Thesis
+**Learning from Weak Signals: Data-Centric Methods for Foundation Models**  
+Ph.D. Dissertation, University of Wisconsin–Madison (2025).  
+[[PDF]](https://www.proquest.com/docview/3285441249?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 
 ### Conference Publications
 [C7] [Weak-to-Strong Generalization Through the Data-Centric Lens](https://arxiv.org/abs/2412.03881), _ICLR 2025_ <br/>

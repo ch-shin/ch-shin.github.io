@@ -1,13 +1,13 @@
 title: Changho Shin
 subtitle: (신창호, @ch-shin)
 face: /assets/img/chshin.jpg
-description: Ph.D. Student in CS at University of Wisconsin-Madison
-email: cshin23@wisc.edu
+description: Postdoctoral Researcher in Computer Science at Princeton University
+email: cs1095@princeton.edu
 github: https://github.com/ch-shin
-cv: https://ch-shin.github.io/assets/cv/cv_chshin_2509.pdf
+cv: https://ch-shin.github.io/assets/cv/cv_chshin_2602.pdf
 twitter: https://twitter.com/Changho_Shin_
 theme: jekyll-theme-minimal
 
 header_pages:
   - index.md
-  - thoughts.md      # whatever you named the page
+  # - thoughts.md
