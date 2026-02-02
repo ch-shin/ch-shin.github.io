@@ -11,6 +11,7 @@ My research centers on data-centric AI, focusing on methods for learning from im
 * (Jun. 2025) Started my summer internship at MSR New England!
 * (Jan. 2025) Our [paper on weak-to-strong generalization](https://arxiv.org/abs/2412.03881) is accepted at ICLR 2025!
 * (Jan. 2025) Our [paper on LLM personalization at inference time](https://arxiv.org/abs/2503.01048) is accepted at NAACL 2025 Findings!
+
 <!-- * (Sep. 2024) Our [paper on effortless label distribution adaptation](https://arxiv.org/abs/2404.08461) is accepted at NeurIPS 2024!
 * (Jun. 2024) New preprint on [free self-alignment](https://arxiv.org/abs/2406.03642)!
 * (Jun. 2024) Started my summer internship at Snorkel AI!
