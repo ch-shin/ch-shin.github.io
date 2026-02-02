@@ -28,7 +28,9 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <!-- <i class="material-icons md-18">location_on</i> {{ site.location }}<br/> -->
-        <i class="material-icons md-18">email</i> {{ site.email }}<br/>
+        <a href="mailto:{{ site.email }}">
+          <i class="material-icons md-18">email</i> {{ site.email }}<br/>
+        </a>
         <!-- <a href="{{ site.homepage }}">
           <i class="material-icons md-18">home</i> {{ site.homepage }}<br/>
         </a> -->
