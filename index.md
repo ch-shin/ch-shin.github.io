@@ -3,14 +3,15 @@ layout: default
 ---
 I am a postdoctoral researcher in the Department of Computer Science at Princeton University, where I work with [Brenden Lake](https://www.cs.princeton.edu/~bl8144/). I completed my Ph.D. in Computer Science at the [University of Wisconsin–Madison](https://www.cs.wisc.edu/) under the supervision of [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Prior to that, I studied psychology and computer science at [Seoul National University](https://en.snu.ac.kr/).
 
-My research centers on data-centric AI, focusing on methods for learning from imperfect supervision and improving the reliability of modern ML systems.
+My research focuses on data-centric AI, particularly methods for learning from imperfect supervision and improving the reliability of modern ML systems.
 
 ### News
-* (Feb. 2026) Started a postdoctoral position at Princeton University.
-* (Dec. 2025) Defended my Ph.D. dissertation.
-* (Jun. 2025) Started my summer internship at MSR New England!
-* (Jan. 2025) Our [paper on weak-to-strong generalization](https://arxiv.org/abs/2412.03881) is accepted at ICLR 2025!
-* (Jan. 2025) Our [paper on LLM personalization at inference time](https://arxiv.org/abs/2503.01048) is accepted at NAACL 2025 Findings!
+* (May 2026) Our [paper on confounder-aware LLM judge aggregation](https://arxiv.org/abs/2603.00039) is accepted at ICML 2026!
+* (Feb 2026) Started a postdoctoral position at Princeton University.
+* (Dec 2025) Defended my Ph.D. dissertation.
+* (Jun 2025) Started my summer internship at MSR New England!
+* (Jan 2025) Our [paper on weak-to-strong generalization](https://arxiv.org/abs/2412.03881) is accepted at ICLR 2025!
+* (Jan 2025) Our [paper on LLM personalization at inference time](https://arxiv.org/abs/2503.01048) is accepted at NAACL 2025 Findings!
 
 <!-- * (Sep. 2024) Our [paper on effortless label distribution adaptation](https://arxiv.org/abs/2404.08461) is accepted at NeurIPS 2024!
 * (Jun. 2024) New preprint on [free self-alignment](https://arxiv.org/abs/2406.03642)!
@@ -34,6 +35,10 @@ Ph.D. Dissertation, University of Wisconsin–Madison (2025).
 [[PDF]](https://www.proquest.com/docview/3285441249?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 
 ### Conference Publications
+[C8] [CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation
+](https://sites.google.com/view/llm-eval-workshop?pli=1), _ICML 2026_ <br/>
+Jitian Zhao\*, **Changho Shin\***, Tzu-Heng Huang, Srinath Namburi, Frederic Sala
+
 [C7] [Weak-to-Strong Generalization Through the Data-Centric Lens](https://arxiv.org/abs/2412.03881), _ICLR 2025_ <br/>
 **Changho Shin**, John Cooper, Frederic Sala
 
@@ -65,11 +70,8 @@ Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data
 **Changho Shin**, Seungeun Rho, Hyoseop Lee, and Wonjong Rhee <br/>
 
 ### Workshop Publications
-[W8] [Curriculum Learning as Transport: Training Along Wasserstein Geodesics](https://sites.google.com/view/ccfm-neurips2025), _NeurIPS 2025 CCFM Workshop_ <br/>
+[W7] [Curriculum Learning as Transport: Training Along Wasserstein Geodesics](https://sites.google.com/view/ccfm-neurips2025), _NeurIPS 2025 CCFM Workshop_ <br/>
 **Changho Shin**, David Alvarez-Melis
-
-[W7] [From Many Voices to One: A Statistically Principled Aggregation of LLM Judges](https://sites.google.com/view/llm-eval-workshop?pli=1), _NeurIPS 2025 LLM Evaluation Workshop_; Reliable ML Workshop <br/>
-Jitian Zhao\*, **Changho Shin\***, Tzu-Heng Huang, Srinath Namburi, Frederic Sala
 
 [W6] [LLM-Integrated Bayesian State Space Models for Multimodal Time-Series Forecasting](https://berts-workshop.github.io/), _NeurIPS 2025 BERT2S Workshop_ <br/>
 Sungjun Cho, **Changho Shin**, Suenggwan Jo, Xinya Yan, Shourjo Aditya Chaudhuri, Frederic Sala
