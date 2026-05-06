@@ -23,7 +23,7 @@
         <h2 class="subtitle">{{ site.subtitle }}</h2>
 
         {% if site.face %}
-          <img src="{{site.face | relative_url}}" alt="Face" />
+          <img class="profile-photo" src="{{site.face | relative_url}}" alt="Face" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>

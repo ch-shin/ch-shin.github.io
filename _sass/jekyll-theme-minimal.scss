@@ -120,6 +120,11 @@ img {
   max-width:100%;
 }
 
+img.profile-photo {
+  width:220px;
+  height:auto;
+}
+
 img.small_icon {
     height: 15px;
     vertical-align: sub;
@@ -261,6 +266,10 @@ footer {
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
+  }
+
+  img.profile-photo {
+    width:150px;
   }
 
   header {
