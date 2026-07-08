@@ -1,18 +1,17 @@
 ---
 layout: default
 ---
-I am a postdoctoral researcher in the Department of Computer Science at Princeton University, where I work with [Brenden Lake](https://www.cs.princeton.edu/~bl8144/). I completed my Ph.D. in Computer Science at the [University of Wisconsin–Madison](https://www.cs.wisc.edu/) under the supervision of [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Prior to that, I studied psychology and computer science at [Seoul National University](https://en.snu.ac.kr/).
+I am a postdoctoral researcher in the Department of Computer Science at Princeton University, where I work with [Brenden Lake](https://www.cs.princeton.edu/~bl8144/). I completed my Ph.D. in Computer Science at the [University of Wisconsin–Madison](https://www.cs.wisc.edu/) under the supervision of [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Prior to that, I studied psychology and computer science at [Seoul National University](https://en.snu.ac.kr/) and earned a Master's degree under the supervision of Wonjong Rhee.
 
-My research focuses on data-centric AI, particularly methods for learning from imperfect supervision and improving the reliability of modern ML systems.
+My research focuses on data-centric AI, particularly methods for learning from imperfect supervision and improving the reliability of modern AI systems.
 
 ### News
+* (Jul 2026) My MSR internship paper with David, *Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics*, is accepted at COLM 2026!
 * (May 2026) Our [paper on confounder-aware LLM judge aggregation](https://arxiv.org/abs/2603.00039) is accepted at ICML 2026!
 * (Feb 2026) Started a postdoctoral position at Princeton University.
 * (Dec 2025) Defended my Ph.D. dissertation.
 * (Jun 2025) Started my summer internship at MSR New England!
 * (Jan 2025) Our [paper on weak-to-strong generalization](https://arxiv.org/abs/2412.03881) is accepted at ICLR 2025!
-* (Jan 2025) Our [paper on LLM personalization at inference time](https://arxiv.org/abs/2503.01048) is accepted at NAACL 2025 Findings!
-
 <!-- * (Sep. 2024) Our [paper on effortless label distribution adaptation](https://arxiv.org/abs/2404.08461) is accepted at NeurIPS 2024!
 * (Jun. 2024) New preprint on [free self-alignment](https://arxiv.org/abs/2406.03642)!
 * (Jun. 2024) Started my summer internship at Snorkel AI!
@@ -29,14 +28,16 @@ My research focuses on data-centric AI, particularly methods for learning from i
 * (Jan. 2022) Our paper on [applying weak supervision to any metric spaces](https://arxiv.org/pdf/2112.03865.pdf) is accepted at ICLR 2022! -->
 
 <!-- ### Preprints -->
-### Doctoral Thesis
+<!-- ### Doctoral Thesis
 **Learning from Weak Signals: Data-Centric Methods for Foundation Models**  
 Ph.D. Dissertation, University of Wisconsin–Madison (2025).  
-[[PDF]](https://www.proquest.com/docview/3285441249?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
+[[PDF]](https://www.proquest.com/docview/3285441249?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) -->
 
 ### Conference Publications
-[C8] [CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation
-](https://sites.google.com/view/llm-eval-workshop?pli=1), _ICML 2026_ <br/>
+[C9] Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics,  _COLM 2026_ <br/>
+**Changho Shin**, David Alvarez-Melis
+
+[C8] [CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation](https://sites.google.com/view/llm-eval-workshop?pli=1), _ICML 2026_ <br/>
 Jitian Zhao\*, **Changho Shin\***, Tzu-Heng Huang, Srinath Namburi, Frederic Sala
 
 [C7] [Weak-to-Strong Generalization Through the Data-Centric Lens](https://arxiv.org/abs/2412.03881), _ICLR 2025_ <br/>
@@ -70,9 +71,6 @@ Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data
 **Changho Shin**, Seungeun Rho, Hyoseop Lee, and Wonjong Rhee <br/>
 
 ### Workshop Publications
-[W7] [Curriculum Learning as Transport: Training Along Wasserstein Geodesics](https://sites.google.com/view/ccfm-neurips2025), _NeurIPS 2025 CCFM Workshop_ <br/>
-**Changho Shin**, David Alvarez-Melis
-
 [W6] [LLM-Integrated Bayesian State Space Models for Multimodal Time-Series Forecasting](https://berts-workshop.github.io/), _NeurIPS 2025 BERT2S Workshop_ <br/>
 Sungjun Cho, **Changho Shin**, Suenggwan Jo, Xinya Yan, Shourjo Aditya Chaudhuri, Frederic Sala
 
@@ -86,7 +84,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 **Changho Shin\***, Joon Suk Huh\*, Elina Choi
 
 [W2] [Multimodal Data Curation via Object Detection and Filter Ensembles](https://arxiv.org/abs/2401.12225), _ICCV 2023 DataComp Workshop_ **(Filtering Track Rank #1 (Small))**<br/>
-**Changho Shin\***, Tzu-heng Huang\*, Sui Jiet Tay, Dyah Adila, Frederic Sala
+**Changho Shin\***, Tzu-Heng Huang\*, Sui Jiet Tay, Dyah Adila, Frederic Sala
 
 [W1] [Can we get smarter than majority vote? Efficient use of individual rater’s labels for content moderation](https://neurips2022-enlsp.github.io/papers/paper_21.pdf), _NeurIPS 2022 ENLSP Workshop_ <br/>
 **Changho Shin**, Alice Schoenauer Sebag
@@ -109,7 +107,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 - Research Intern
 - Mentor: [David Alvarez-Melis](https://dmelis.github.io/)
-- Project: *Curriculum Learning as Transport: Training Along Wasserstein Geodesics*
+- Project: *Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics*
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
