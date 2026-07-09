@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I am a postdoctoral researcher in the Department of Computer Science at Princeton University, where I work with [Brenden Lake](https://www.cs.princeton.edu/~bl8144/). I completed my Ph.D. in Computer Science at the [University of Wisconsin–Madison](https://www.cs.wisc.edu/) under the supervision of [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Prior to that, I studied psychology and computer science at [Seoul National University](https://en.snu.ac.kr/) and earned a Master's degree under the supervision of Wonjong Rhee.
+I am a postdoctoral researcher in the Department of Computer Science at Princeton University, where I work with [Brenden Lake](https://www.cs.princeton.edu/~bl8144/). I completed my Ph.D. in Computer Science at the [University of Wisconsin–Madison](https://www.cs.wisc.edu/) under the supervision of [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Prior to that, I studied psychology and computer science at [Seoul National University](https://en.snu.ac.kr/) and earned a Master's degree under the supervision of [Wonjong Rhee](https://drl.snu.ac.kr/people/professor).
 
 My research focuses on data-centric AI, particularly methods for learning from imperfect supervision and improving the reliability of modern AI systems.
 
