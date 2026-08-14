@@ -2,13 +2,21 @@
 layout: default
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
+<article class="blog-post">
+  <a class="back-to-blog" href="{{ "/blog/" | relative_url }}">&larr; Blog</a>
+  <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+  <h1>{{ page.title }}</h1>
 
-<p class="view">by {{ page.author | default: site.author }}</p>
+  {% assign post_author = page.author | default: site.author %}
+  {% if post_author %}
+    <p class="view">by {{ post_author }}</p>
+  {% endif %}
 
-{{content}}
+  <div class="post-content">
+    {{ content }}
+  </div>
 
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
+  {% if page.tags %}
+    <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+  {% endif %}
+</article>
