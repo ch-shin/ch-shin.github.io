@@ -6,8 +6,8 @@ I am a postdoctoral researcher in the Department of Computer Science at Princeto
 My research focuses on data-centric AI, particularly methods for learning from imperfect supervision and improving the reliability of modern AI systems.
 
 ### News
-* (Jul 2026) My MSR internship paper with David, *Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics*, is accepted at COLM 2026!
-* (May 2026) Our [paper on confounder-aware LLM judge aggregation](https://arxiv.org/abs/2603.00039) is accepted at ICML 2026!
+* (Jul 2026) My MSR internship paper with David, [*Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics*](https://openreview.net/pdf?id=ZTvbmNBcBW), is accepted at COLM 2026!
+* (May 2026) Our [paper on confounder-aware LLM judge aggregation](https://openreview.net/pdf?id=3WPDFjZ1UT) is accepted at ICML 2026!
 * (Feb 2026) Started a postdoctoral position at Princeton University.
 * (Dec 2025) Defended my Ph.D. dissertation.
 * (Jun 2025) Started my summer internship at MSR New England!
@@ -34,10 +34,10 @@ Ph.D. Dissertation, University of Wisconsin–Madison (2025).
 [[PDF]](https://www.proquest.com/docview/3285441249?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) -->
 
 ### Conference Publications
-[C9] Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics,  _COLM 2026_ <br/>
+[C9] [Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics](https://openreview.net/pdf?id=ZTvbmNBcBW), _COLM 2026_ <br/>
 **Changho Shin**, David Alvarez-Melis
 
-[C8] [CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation](https://sites.google.com/view/llm-eval-workshop?pli=1), _ICML 2026_ <br/>
+[C8] [CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation](https://openreview.net/pdf?id=3WPDFjZ1UT), _ICML 2026_ <br/>
 Jitian Zhao\*, **Changho Shin\***, Tzu-Heng Huang, Srinath Namburi, Frederic Sala
 
 [C7] [Weak-to-Strong Generalization Through the Data-Centric Lens](https://arxiv.org/abs/2412.03881), _ICLR 2025_ <br/>
@@ -53,10 +53,10 @@ Yijing Zhang, Dyah Adila, **Changho Shin**, Frederic Sala
 Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 [C3] [Mitigating Source Bias for Fairer Weak Supervision](https://arxiv.org/abs/2303.17713), _NeurIPS 2023_ <br/>
-  **Changho Shin**, Sonia Cromp, Dyah Adila, Frederic Sala
+**Changho Shin**, Sonia Cromp, Dyah Adila, Frederic Sala
 
 [C2] [Universalizing Weak Supervision](https://arxiv.org/pdf/2112.03865.pdf), _ICLR 2022_ <br/>
-  **Changho Shin**, Winfred Li, Harit Vishwakarma, Nicholas Roberts, Frederic Sala <br/>
+**Changho Shin**, Winfred Li, Harit Vishwakarma, Nicholas Roberts, Frederic Sala <br/>
 
 [C1] [Subtask Gated Networks for Non-Intrusive Load Monitoring](https://www.aaai.org/ojs/index.php/AAAI/article/view/3908), _AAAI 2019_ <br/>
 **Changho Shin**, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, and Wonjong Rhee <br/>
@@ -71,14 +71,14 @@ Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data
 **Changho Shin**, Seungeun Rho, Hyoseop Lee, and Wonjong Rhee <br/>
 
 ### Workshop Publications
-[W6] [LLM-Integrated Bayesian State Space Models for Multimodal Time-Series Forecasting](https://berts-workshop.github.io/), _NeurIPS 2025 BERT2S Workshop_ <br/>
+[W6] Compositional Self-Improvement, _ICML 2026 CompLearn Workshop_ <br/>
+**Changho Shin**, Daiwei Chen, John Cooper, Brenden Lake, Frederic Sala, Ramya Korlakai Vinayak
+
+[W5] [LLM-Integrated Bayesian State Space Models for Multimodal Time-Series Forecasting](https://berts-workshop.github.io/), _NeurIPS 2025 BERT2S Workshop_ <br/>
 Sungjun Cho, **Changho Shin**, Suenggwan Jo, Xinya Yan, Shourjo Aditya Chaudhuri, Frederic Sala
 
-[W5] [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642), _NeurIPS 2024 MINT Workshop_ <br/>
+[W4] [Is Free Self-Alignment Possible?](https://arxiv.org/abs/2406.03642), _NeurIPS 2024 MINT Workshop_ <br/>
 Dyah Adila, **Changho Shin**, Yijing Zhang, Frederic Sala
-
-[W4] [Foundation Models Can Robustify Themselves, For Free](https://openreview.net/forum?id=XoacWibt7b), _NeurIPS 2023 R0-FoMo Workshop_ **(Best Paper Award Honorable Mention)**<br/>
-Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 [W3] [Pool-Search-Demonstrate: Improving Data-wrangling LLMs via better in-context examples](https://openreview.net/forum?id=6Kb3pE9nWQ), _NeurIPS 2023 TRL Workshop_ **(Oral)**<br/>
 **Changho Shin\***, Joon Suk Huh\*, Elina Choi
@@ -107,7 +107,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 - Research Intern
 - Mentor: [David Alvarez-Melis](https://dmelis.github.io/)
-- Project: *Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics*
+- Project: [*Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics*](https://openreview.net/pdf?id=ZTvbmNBcBW)
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
@@ -126,12 +126,12 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 </h4>
 
 - Machine Learning Engineer Intern, Health Team
-- Mentor: [Alice Schoenauer Sebag](https://www.linkedin.com/in/alice-schoenauer-sebag-999ba67a/), [Milind Ganzoo](https://www.linkedin.com/in/mganjoo/)
+- Mentor: [Alice Schoenauer Sebag](https://www.linkedin.com/in/alice-schoenauer-sebag-999ba67a/), [Milind Ganjoo](https://www.linkedin.com/in/mganjoo/)
 - Project: [*Improving toxicity classification with weak supervision*](https://neurips2022-enlsp.github.io/papers/paper_21.pdf)
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
-  <a href="enertalk.com">Encored Technologies</a>, Seoul, Korea
+  <a href="https://enertalk.com">Encored Technologies</a>, Seoul, Korea
   <sup>2018.01 - 2020.07</sup>
 </h4>
 - Data Scientist, Applied Research Team
@@ -139,7 +139,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 
 <h4 class="experience">
   <i class="material-icons md-18">apartment</i>
-  <a href="kida.re.kr">KIDA (Korea Institute for Defense Analyses)</a>, Seoul, Korea
+  <a href="https://kida.re.kr">KIDA (Korea Institute for Defense Analyses)</a>, Seoul, Korea
   <sup>2017.01 - 2017.12</sup>
 </h4>
 - Researcher, Defense Information Planning Division
@@ -149,7 +149,7 @@ Dyah Adila\*, **Changho Shin\***, Linrong Cai, Frederic Sala
 <h4 class="experience">
   <i class="material-icons md-18">school</i>
   <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>
-  <sup>2020.09 -</sup>
+  <sup>2020.09 - 2025.12</sup>
 </h4>
 - Teaching assistant for CS 839 (Foundation Models and the Future of Machine Learning), Fall 2023, Fall 2025
 - Teaching assistant for CS 300 (Programming II), Fall 2022, Spring 2023

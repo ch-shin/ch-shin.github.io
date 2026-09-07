@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Welcome to the blog
-description: A space for notes on research and whatever else is on my mind.
 tags:
   - update
 ---
