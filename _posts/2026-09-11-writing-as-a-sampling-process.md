@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing as a Sampling Process
+title: "Writing as Sampling [WIP]"
 tags:
   - WIP
 ---
