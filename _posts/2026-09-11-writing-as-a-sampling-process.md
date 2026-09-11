@@ -21,7 +21,7 @@ You might accept it if, for some distance metric $$d$$, $$d(x_1,z)\leq\epsilon$$
 We have some intention for what we want to write—a meaning we want to represent—but it’s latent.
 Writing is an iterative process that stops when the text is close enough to that latent intention.)
 
-Now, we modern boys, instead of trying to write directly, write a prompt $$p_1$$ and sample a draft $$y_1\sim P_{\mathrm{LLM}}(\cdot\mid p_1)$$. We check whether $$d(y_1,z)\leq\epsilon$$, revise the prompt or ask for another version, and repeat until we get a satisfactory $$y_{k'}$$. Here, too, later attempts can build on earlier drafts and feedback. We’re still sampling possible expressions of what we mean, but now we steer the sampling through prompts. Then we can define $$C_y=\sum_{i=1}^{k'}c'_i$$, where $$c'_i$$ is the cost of each round of prompting, reading, and editing.
+Now, we modern boys, instead of trying to write directly, write a prompt $$p_1$$ and sample a draft $$y_1\sim P_{\mathrm{LLM}}(\cdot\mid p_1)$$. We check whether $$d(y_1,z)\leq\epsilon$$, revise the prompt or ask for another version with $$p_2$$, and repeat until we get a satisfactory $$y_{k'}$$. Here, too, later attempts can build on earlier drafts and feedback. We’re still sampling possible expressions of what we mean, but now we steer the sampling through prompts. Then we can define $$C_y=\sum_{i=1}^{k'}c'_i$$, where $$c'_i$$ is the cost of each round of prompting, reading, and editing.
 
 In this dumb model, a reasonable choice is to just use an LLM if $$C_y\leq C_x$$.
 
@@ -31,5 +31,7 @@ But this model neglects many things. I guess the strong researchers would raise 
 
 The first assumption is clearly wrong—chains of thought generate new thoughts.
 It neglects what you learn through writing and how writing helps you organize your thoughts, reducing the cost of writing in the future.
+
+===
 
 To deal with the first criticism, let’s consider a sequential model of latent intention $$z$$. We have some thought $$z_1$$ at the beginning and write $$x_1$$ to represent $$z_1$$. Then $$x_1$$ leads to $$z_2$$, and so on. To demonstrate this idea, I’ll stop here to generate $$z_2$$.
