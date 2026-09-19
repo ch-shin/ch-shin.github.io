@@ -10,6 +10,9 @@ These days, one of the biggest changes brought about by AI is in the writing pro
 
 I personally use LLMs heavily for writing and often think they write better than I do in some cases (and often not). I like viewing writing as a sampling process, so I wanted to write this down to clarify my thoughts.
 
+
+### Writing with fixed thoughts
+
 Assuming you have some thoughts to begin with
 
 Suppose you have an intention $$z$$ for what you want to write and want to encode it as a piece of writing, $$x$$. You could just sit down and write, producing $$x_1$$. I like to think of this as sampling one possible expression of $$z$$: even with the same intention, you could end up writing something different each time.
@@ -33,5 +36,12 @@ The first assumption is clearly wrong—chains of thought generate new thoughts.
 It neglects what you learn through writing and how writing helps you organize your thoughts, reducing the cost of writing in the future.
 
 ===
+### Writing with evolving thoughts
 
-To deal with the first criticism, let’s consider a sequential model of latent intention $$z$$. We have some thought $$z_1$$ at the beginning and write $$x_1$$ to represent $$z_1$$. Then $$x_1$$ leads to $$z_2$$, and so on. To demonstrate this idea, I’ll stop here to generate $$z_2$$.
+To deal with the first criticism, let’s consider a sequential model of latent intention $$z$$. We have some thought $$z_1$$ at the beginning and write $$x_1$$ to represent it. Then $$x_1$$ leads to $$z_2$$, and so on. Here, we need to write to think.
+
+In this mode, what should the goal of writing be? I think, in addition to properly representing the current thought, convergence matters—after some writing, our thoughts more or less stop evolving. I guess we could formalize this as $$d_z(z_i,z_{i-1})<\delta$$ and $$d_{xz}(x_i,z_i)<\epsilon$$: our thoughts have settled enough, and the writing is close enough to what we mean.
+
+We can define the cost in the same way as in “Writing with fixed thoughts.” But now the tricky part is accounting for the improvement (or just change) in $$z_i$$ along the way. If we only care about minimizing cost, simply sticking to the first thought $$z_1$$ would usually be the cheapest option. But that seems to miss the point of writing to think.
+
+Stopping here since I need to think more about this...
