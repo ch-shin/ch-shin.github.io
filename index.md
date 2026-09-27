@@ -6,12 +6,14 @@ I am a postdoctoral researcher in the Department of Computer Science at Princeto
 My research focuses on data-centric AI, particularly methods for learning from imperfect supervision and improving the reliability of modern AI systems.
 
 ### News
+
 * (Jul 2026) My MSR internship paper with David, [*Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics*](https://openreview.net/pdf?id=ZTvbmNBcBW), is accepted at COLM 2026!
 * (May 2026) Our [paper on confounder-aware LLM judge aggregation](https://openreview.net/pdf?id=3WPDFjZ1UT) is accepted at ICML 2026!
 * (Feb 2026) Started a postdoctoral position at Princeton University.
 * (Dec 2025) Defended my Ph.D. dissertation.
 * (Jun 2025) Started my summer internship at MSR New England!
 * (Jan 2025) Our [paper on weak-to-strong generalization](https://arxiv.org/abs/2412.03881) is accepted at ICLR 2025!
+
 <!-- * (Sep. 2024) Our [paper on effortless label distribution adaptation](https://arxiv.org/abs/2404.08461) is accepted at NeurIPS 2024!
 * (Jun. 2024) New preprint on [free self-alignment](https://arxiv.org/abs/2406.03642)!
 * (Jun. 2024) Started my summer internship at Snorkel AI!
@@ -34,6 +36,9 @@ Ph.D. Dissertation, University of Wisconsin–Madison (2025).
 [[PDF]](https://www.proquest.com/docview/3285441249?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) -->
 
 ### Conference Publications
+[C10] [SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks](https://arxiv.org/abs/2603.24755), _NeurIPS 2026_ <br/>
+Gabriel Orlanski, Devjeet Roy, Alexander Yun, **Changho Shin**, Alex Gu, Albert Ge, Dyah Adila, Nicholas Roberts, Frederic Sala, Aws Albarghouthi
+
 [C9] [Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics](https://openreview.net/pdf?id=ZTvbmNBcBW), _COLM 2026_ <br/>
 **Changho Shin**, David Alvarez-Melis
 
