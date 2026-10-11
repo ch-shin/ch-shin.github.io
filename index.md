@@ -6,7 +6,7 @@ I am a postdoctoral researcher in the Department of Computer Science at Princeto
 My research focuses on data-centric AI, particularly methods for learning from imperfect supervision and improving the reliability of modern AI systems.
 
 ### News
-
+* (Oct 2026) Our [paper on hierarchical visual representations in child's-view models](https://openreview.net/pdf?id=yLhdtjekXg) was accepted at the NeurIPS 2026 DevAI Workshop! I’m also grateful to have somehow been recognized as a top reviewer for the NeurIPS 2026 main track. See you in Atlanta!
 * (Jul 2026) My MSR internship paper with David, [*Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics*](https://openreview.net/pdf?id=ZTvbmNBcBW), is accepted at COLM 2026!
 * (May 2026) Our [paper on confounder-aware LLM judge aggregation](https://openreview.net/pdf?id=3WPDFjZ1UT) is accepted at ICML 2026!
 * (Feb 2026) Started a postdoctoral position at Princeton University.
@@ -76,6 +76,9 @@ Korea](https://www.nature.com/articles/s41597-019-0212-5.epdf), _Scientific Data
 **Changho Shin**, Seungeun Rho, Hyoseop Lee, and Wonjong Rhee <br/>
 
 ### Workshop Publications
+[W7] [Coarse-to-Fine Category Structure in Child's-View Model Representations](https://openreview.net/pdf?id=yLhdtjekXg), _NeurIPS 2026 DevAI Workshop_ <br/>
+**Changho Shin**, Jeonghwan Cheon, Brenden Lake
+
 [W6] Compositional Self-Improvement, _ICML 2026 CompLearn Workshop_ <br/>
 **Changho Shin**, Daiwei Chen, John Cooper, Brenden Lake, Frederic Sala, Ramya Korlakai Vinayak
 
