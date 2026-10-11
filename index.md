@@ -6,7 +6,7 @@ I am a postdoctoral researcher in the Department of Computer Science at Princeto
 My research focuses on data-centric AI, particularly methods for learning from imperfect supervision and improving the reliability of modern AI systems.
 
 ### News
-* (Oct 2026) Our [paper on hierarchical visual representations in child's-view models](https://openreview.net/pdf?id=yLhdtjekXg) was accepted at the NeurIPS 2026 DevAI Workshop! I’m also grateful to have somehow been recognized as a top reviewer for the NeurIPS 2026 main track. See you in Atlanta!
+* (Oct 2026) Our [paper on hierarchical visual representations in child's-view models](https://openreview.net/pdf?id=yLhdtjekXg) was accepted at the [NeurIPS 2026 DevAI Workshop](https://sites.google.com/view/devai-workshop-2026/)! I’m also grateful to have somehow been recognized as a top reviewer for the NeurIPS 2026 main track. See you in Atlanta!
 * (Jul 2026) My MSR internship paper with David, [*Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics*](https://openreview.net/pdf?id=ZTvbmNBcBW), is accepted at COLM 2026!
 * (May 2026) Our [paper on confounder-aware LLM judge aggregation](https://openreview.net/pdf?id=3WPDFjZ1UT) is accepted at ICML 2026!
 * (Feb 2026) Started a postdoctoral position at Princeton University.
