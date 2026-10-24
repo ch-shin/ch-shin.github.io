@@ -30,6 +30,36 @@ h1.title {
   margin-bottom:5px;
 }
 
+.name-pronunciation {
+  display:flex;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:6px;
+  margin:0 0 16px;
+  font-size:12px;
+}
+
+.pronunciation-link {
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:24px;
+  height:24px;
+  color:inherit;
+  border-radius:3px;
+}
+
+.pronunciation-link:hover,
+.pronunciation-link:focus {
+  color:#267CB9;
+  font-weight:400;
+}
+
+.pronunciation-link:focus-visible {
+  outline:2px solid #267CB9;
+  outline-offset:2px;
+}
+
 h2 {
   color:#393939;
 }
