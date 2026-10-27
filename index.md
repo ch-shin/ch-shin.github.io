@@ -97,7 +97,9 @@ Dyah Adila, **Changho Shin**, Yijing Zhang, Frederic Sala
 [W1] [Can we get smarter than majority vote? Efficient use of individual rater’s labels for content moderation](https://neurips2022-enlsp.github.io/papers/paper_21.pdf), _NeurIPS 2022 ENLSP Workshop_ <br/>
 **Changho Shin**, Alice Schoenauer Sebag
 
-### AWARDS
+### Honors, Awards & Grants
+* NeurIPS Top Reviewer, 2026
+* Lambda Research Grant, 2026
 * [Qualcomm Innovation Fellowship Finalist](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists), 2024
 * [Best Paper Award Honorable Mention](https://twitter.com/setlur_amrith/status/1739009154986160541) (NeurIPS R0-FoMo Workshop), 2023
 * NeurIPS 2023 Scholar Award, 2023
