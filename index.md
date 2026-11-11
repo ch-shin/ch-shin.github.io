@@ -3,7 +3,7 @@ layout: default
 ---
 I am a postdoctoral researcher in the Department of Computer Science at Princeton University, where I work with [Brenden Lake](https://www.cs.princeton.edu/~bl8144/). I completed my Ph.D. in Computer Science at the [University of Wisconsin–Madison](https://www.cs.wisc.edu/) under the supervision of [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). Prior to that, I studied psychology and computer science at [Seoul National University](https://en.snu.ac.kr/) and earned a Master's degree under the supervision of [Wonjong Rhee](https://drl.snu.ac.kr/people/professor).
 
-My research focuses on data-centric AI, particularly methods for learning from imperfect supervision and improving the reliability of modern AI systems.
+My research explores how humans can effectively guide increasingly capable AI systems, and how these systems can, in turn, better understand and support people. I investigate the principles and methods of scalable supervision and oversight, including weak supervision, weak-to-strong generalization, reliable LLM evaluation, and self-improvement. I also study human learning and cognition to help build AI systems that better understand and empower people.
 
 ### News
 * (Oct 2026) Our [paper on hierarchical visual representations in child's-view models](https://openreview.net/pdf?id=yLhdtjekXg) was accepted at the [NeurIPS 2026 DevAI Workshop](https://sites.google.com/view/devai-workshop-2026/)! I’m also grateful to have somehow been recognized as a top reviewer for the NeurIPS 2026 main track. See you in Atlanta!
@@ -29,7 +29,17 @@ My research focuses on data-centric AI, particularly methods for learning from i
 * (Jun. 2022) Started my summer internship at Twitter!
 * (Jan. 2022) Our paper on [applying weak supervision to any metric spaces](https://arxiv.org/pdf/2112.03865.pdf) is accepted at ICLR 2022! -->
 
-<!-- ### Preprints -->
+### Recent Work
+
+[P3] Modeling Student Arithmetic Reasoning by Distilling Cognitive Priors into Language Models, _Under Review_ <br/>
+Max Gupta\*, **Changho Shin\***, Brenden Lake, Tammy Kwan
+
+[P2] [VoirDire: Counterfactual Calibration for Reliable LLM-as-a-Judge Aggregation](https://arxiv.org/abs/2611.00491), _arXiv preprint, 2026_ <br/>
+**Changho Shin**, Frederic Sala
+
+[P1] [Compositional Self-Improvement: Promises and Pitfalls](https://arxiv.org/abs/2611.00452), _arXiv preprint, 2026_ <br/>
+**Changho Shin**, Daiwei Chen, Brenden Lake, Frederic Sala, Ramya Korlakai Vinayak
+
 <!-- ### Doctoral Thesis
 **Learning from Weak Signals: Data-Centric Methods for Foundation Models**  
 Ph.D. Dissertation, University of Wisconsin–Madison (2025).  
